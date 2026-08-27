@@ -1,0 +1,96 @@
+{
+  "mode": "dry-run",
+  "caseCount": 9,
+  "configuration": {
+    "matchCount": 8,
+    "minSimilarity": 0.5,
+    "model": "text-embedding-3-small",
+    "dimensions": 1536
+  },
+  "cases": [
+    {
+      "id": "employment-notice-period",
+      "query": "Cili është afati i njoftimit për ndërprerjen e kontratës së punës?",
+      "contractType": "employment",
+      "allowedLaws": [
+        "03/L-212",
+        "08/L-142"
+      ],
+      "expectedTopic": "Afati i njoftimit për ndërprerjen e punësimit"
+    },
+    {
+      "id": "employment-overtime-pay",
+      "query": "Si rregullohet pagesa për punën jashtë orarit?",
+      "contractType": "employment",
+      "allowedLaws": [
+        "03/L-212",
+        "08/L-142"
+      ],
+      "expectedTopic": "Pagesa dhe kompensimi për punë jashtë orarit"
+    },
+    {
+      "id": "employment-probation",
+      "query": "Sa zgjat periudha provuese dhe cilat janë kushtet e saj?",
+      "contractType": "employment",
+      "allowedLaws": [
+        "03/L-212",
+        "08/L-142"
+      ],
+      "expectedTopic": "Kohëzgjatja dhe kushtet e periudhës provuese"
+    },
+    {
+      "id": "service-nonperformance-liability",
+      "query": "Kush mban përgjegjësi kur shërbimi nuk kryhet sipas marrëveshjes?",
+      "contractType": "service",
+      "allowedLaws": [
+        "04/L-077"
+      ],
+      "expectedTopic": "Përgjegjësia për mospërmbushjen e shërbimit"
+    },
+    {
+      "id": "service-termination",
+      "query": "Si mund të ndërpritet marrëveshja e shërbimit?",
+      "contractType": "service",
+      "allowedLaws": [
+        "04/L-077"
+      ],
+      "expectedTopic": "Ndërprerja e marrëveshjes së shërbimit"
+    },
+    {
+      "id": "service-damages",
+      "query": "Kur kërkohet dëmshpërblim për mosrealizimin e detyrimit?",
+      "contractType": "service",
+      "allowedLaws": [
+        "04/L-077"
+      ],
+      "expectedTopic": "Dëmshpërblimi për mosrealizimin e detyrimit"
+    },
+    {
+      "id": "lease-maintenance",
+      "query": "Cilat janë detyrimet e qiradhënësit për mirëmbajtjen e pronës?",
+      "contractType": "lease",
+      "allowedLaws": [
+        "04/L-077"
+      ],
+      "expectedTopic": "Mirëmbajtja e objektit nga qiradhënësi"
+    },
+    {
+      "id": "lease-termination",
+      "query": "Si përfundon ose ndërpritet kontrata e qirasë?",
+      "contractType": "lease",
+      "allowedLaws": [
+        "04/L-077"
+      ],
+      "expectedTopic": "Përfundimi dhe ndërprerja e qirasë"
+    },
+    {
+      "id": "lease-property-damage",
+      "query": "Kush përgjigjet për dëmtimin e objektit të marrë me qira?",
+      "contractType": "lease",
+      "allowedLaws": [
+        "04/L-077"
+      ],
+      "expectedTopic": "Përgjegjësia për dëmtimin e objektit me qira"
+    }
+  ]
+}

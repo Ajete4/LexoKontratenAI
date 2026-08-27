@@ -1,0 +1,280 @@
+{
+  "lawNumber": "08/L-142",
+  "versionLabel": "gazette-18-2024",
+  "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+  "chunks": [
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "1",
+      "articleTitle": "Qëllimi",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 1,
+      "pageEnd": 1,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 0,
+      "content": "Ligji 08/L-142\nNeni 1 - Qëllimi\n\nKy ligj ka për qëllim të ndryshojë dhe plotësojë ligjet e përcaktuara në dispozitat e mëtejme të këtij\nligji, të cilat ndërlidhin shumën e beneficioneve apo kompensimeve me pagën minimale, të ndryshojë\nshkallët tatimore në të ardhurat personale vjetore, si dhe të ndryshojë procedurën e vendosjes së\npagës minimale.",
+      "contentSha256": "f76eee823e10d92f3976395bb65ad19368931598a0ddfc135881606a63dd823f",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 1,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": []
+      }
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "2",
+      "articleTitle": "Ndryshimi dhe plotësimi i Ligjit Nr. 04/L-261 për Veteranët e Luftës së Ushtrisë Çlirimtare të Kosovës, i ndryshuar dhe plotësuar me Ligjin Nr. 05/L-141",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 1,
+      "pageEnd": 1,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 1,
+      "content": "Ligji 08/L-142\nNeni 2 - Ndryshimi dhe plotësimi i Ligjit Nr. 04/L-261 për Veteranët e Luftës së Ushtrisë Çlirimtare të Kosovës, i ndryshuar dhe plotësuar me Ligjin Nr. 05/L-141\n\nNeni 16A, paragrafi 3 nën paragrafi 3.1 i Ligjit Nr. 04/L-261 për Veteranët e Luftës së Ushtrisë\nÇlirimtare të Kosovës, i ndryshuar dhe plotësuar me Ligjin Nr. 05/L-141, ndryshohet me tekstin si në\nvijim:\n3.1. Deri në kategorizimin përfundimtar të listës së Veteranit Luftëtar të UÇK-së, Qeveria e\nRepublikës së Kosovës, me propozimin e Ministrisë përgjegjëse për financa, vendosë për\nlartësinë e shumës së pensioneve të përcaktuara me këtë ligj, varësisht nga mundësitë\nbuxhetore, kostoja e jetesës dhe inflacioni eventual.",
+      "contentSha256": "3729a27c9b02e9d4adede54c7ed24bb9a5f73ac7cd86d905a1e74401c9257d15",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 2,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": [
+          {
+            "baseLawNumber": "04/L-261",
+            "baseArticleNumber": "16A",
+            "relationTypeCandidate": "amend",
+            "reviewStatus": "candidate_for_manual_review"
+          }
+        ]
+      }
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "3",
+      "articleTitle": "Ndryshimi dhe plotësimi i Ligjit Nr. 04/L – 092 për Personat e Verbër",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 1,
+      "pageEnd": 1,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 2,
+      "content": "Ligji 08/L-142\nNeni 3 - Ndryshimi dhe plotësimi i Ligjit Nr. 04/L – 092 për Personat e Verbër\n\nNeni 7, paragrafi 2 i Ligjit Nr. 04/L – 092 për Personat e Verbër, ndryshohet me tekstin si në si në\nvijim:\n2. Qeveria e Republikës së Kosovës, me propozimin e Ministrisë përgjegjëse për financa,\nvendosë për lartësinë e shumës së kompensimeve për personat e verbër të përcaktuar me\nkëtë ligj, varësisht nga mundësitë buxhetore, kostoja e jetesës dhe inflacioni eventual.",
+      "contentSha256": "b9abaaf713a0b5aebb3bd1eda7babd303c02da671569d7b4ef939209300af23d",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 2,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": [
+          {
+            "baseLawNumber": "04/L-092",
+            "baseArticleNumber": "7",
+            "relationTypeCandidate": "amend",
+            "reviewStatus": "candidate_for_manual_review"
+          }
+        ]
+      }
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "4",
+      "articleTitle": "Ndryshimi dhe plotësimi i Ligjit Nr. 05/L -067 për Statusin dhe të Drejtat e Personave Paraplegjik dhe Tetraplegjik",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 2,
+      "pageEnd": 2,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 3,
+      "content": "Ligji 08/L-142\nNeni 4 - Ndryshimi dhe plotësimi i Ligjit Nr. 05/L -067 për Statusin dhe të Drejtat e Personave Paraplegjik dhe Tetraplegjik\n\nNeni 7, paragrafi 1 i Ligjit Nr. 05/L -067 për Statusin dhe të Drejtat e Personave Paraplegjik dhe\nTetraplegjik, ndryshohet me tekstin si në vijim:\n1. Qeveria e Republikës së Kosovës, me propozimin e Ministrisë përgjegjëse për Financa,\nvendosë për lartësinë e shumës së kompensimeve për përfituesit e këtij ligji, varësisht nga\nmundësitë buxhetore, kostoja e jetesës dhe inflacioni eventual.",
+      "contentSha256": "e0dae002eb9d060a54baed30cf3eca18b55cbf78f3f2497f5e6f4e9791165c7a",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 2,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": [
+          {
+            "baseLawNumber": "05/L-067",
+            "baseArticleNumber": "7",
+            "relationTypeCandidate": "amend",
+            "reviewStatus": "candidate_for_manual_review"
+          }
+        ]
+      }
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "5",
+      "articleTitle": "Ndryshimi dhe plotësimi i Ligjit Nr. 05/L -028 për Tatimin në të Ardhurat Personale",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 2,
+      "pageEnd": 2,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 4,
+      "content": "Ligji 08/L-142\nNeni 5 - Ndryshimi dhe plotësimi i Ligjit Nr. 05/L -028 për Tatimin në të Ardhurat Personale\n\nNeni 6 i Ligjit Nr. 05/L -028 për Tatimin në të Ardhurat Personale, ndryshohet si në vijim:\nNeni 6\nShkallët e tatimit\n1. Tatimi në të ardhura personale vjetore, ngarkohet sipas shkallëve në vijim:\n1.1. Për të ardhurat e tatueshme deri në tremijë euro (3.000 €), duke përfshirë edhe\nshumën tremijë euro (3.000 €), zero për qind (0%);\n1.2. Për të ardhurat e tatueshme mbi tremijë euro (3.000 €), deri në pesëmijë e\nkatërqind (5.400 €), duke përfshirë edhe shumën pesëmijë e katërqind (5,400 €), tetë\npër qind (8%) të shumës mbi tremijë euro (3.000 €); dhe\n1.3. Për të ardhurat e tatueshme mbi pesëmijë e katërqind (5,400 €), njëqind\nnëntëdhjetë e dy euro (192 €) plus dhjetë për qind (10%) të shumës mbi pesëmijë e\nkatërqind (5,400 €).",
+      "contentSha256": "3a771f904753037602518fe15ee5e62408b8a6a0d2760f0547610fe17f749827",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 5,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": [
+          {
+            "baseLawNumber": "05/L-028",
+            "baseArticleNumber": "6",
+            "relationTypeCandidate": "amend",
+            "reviewStatus": "candidate_for_manual_review"
+          }
+        ]
+      }
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "6",
+      "articleTitle": "Ndryshimi dhe plotësimi i Ligjit Nr. 03/L-212 të Punës",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 2,
+      "pageEnd": 2,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 5,
+      "content": "Ligji 08/L-142\nNeni 6 - Ndryshimi dhe plotësimi i Ligjit Nr. 03/L-212 të Punës\n\nNeni 57, paragrafi 1, i Ligjit Nr. 03/L-212 të Punës, ndryshohet si në vijim:\nNeni 57\nPaga Minimale\n1. Qeveria e Republikës së Kosovës në fund të çdo viti kalanderik përcakton pagën minimale\nsipas propozimit të Këshilli Ekonomiko-Social. Në mungesë të një propozimi të tillë nga\nKëshilli Ekonomiko Social, Ministri përkatës për Financa, pas informimit të Këshillit\nEkonomiko Social, mund të parashtrojë një propozim të tillë për Qeverinë e Republikës së\nKosovës.",
+      "contentSha256": "0f9e9db6a7d3b35a57e3bdcb384cf9aada2208b27ba1ec4759e694d53897244e",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 2,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": [
+          {
+            "baseLawNumber": "03/L-212",
+            "baseArticleNumber": "57",
+            "relationTypeCandidate": "amend",
+            "reviewStatus": "candidate_for_manual_review"
+          }
+        ]
+      }
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "jurisdiction": "XK",
+      "documentType": "amendment",
+      "applicability": [
+        "employment"
+      ],
+      "applicabilityMode": "amendment_scope",
+      "articleNumber": "7",
+      "articleTitle": "Hyrja në fuqi",
+      "paragraphStart": null,
+      "paragraphEnd": null,
+      "pageStart": 2,
+      "pageEnd": 2,
+      "structuralContext": {
+        "chapterTitle": null
+      },
+      "chunkIndex": 6,
+      "content": "Ligji 08/L-142\nNeni 7 - Hyrja në fuqi\n\nKy ligj hyn në fuqi në ditën e publikimit në Gazetën Zyrtare të Republikës së Kosovës.\nLigji Nr. 08/L-142\n13 korrik 2023\nLigji shpallet në Gazetën Zyrtare të Republikës së Kosovës, duke u bazuar në nenin 80\nparagrafi 5 të Kushtetutës së Republikës së Kosovës.",
+      "contentSha256": "7c00dcaba53ecc392929c09d50e227ecaa3e73687281eebf29bafaa07107f0e1",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "tokenCount": null,
+      "warnings": [],
+      "metadata": {
+        "paragraphCount": 1,
+        "splitArticle": false,
+        "normalization": "unicode_nfc_lf_trim_trailing_whitespace_collapse_excess_blank_lines",
+        "paragraphNumberPresentation": "canonical_from_parsed_provenance",
+        "reviewOutcome": "approved_with_warnings",
+        "amendmentCandidates": []
+      }
+    }
+  ]
+}

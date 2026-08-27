@@ -1,0 +1,4683 @@
+{
+  "version": "legal-hybrid-tuning-checkpoint-v1",
+  "goldSetSha256": "F15A212AD111D7F9DDCA77E376E43C4BAB862E084DBC6376F04C6CA06D2E7FC3",
+  "planSha256": "2C8137780E42836821AA4780DAC1F186FAAA907797FECAA762F412893A65743D",
+  "attempts": {
+    "embeddings": 9,
+    "rpc": 54
+  },
+  "successes": {
+    "embeddings": 9,
+    "rpc": 54
+  },
+  "completedRuns": [
+    {
+      "runKey": "employment-notice-period:rrf-20-candidates-50",
+      "evaluationId": "employment-notice-period",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "71",
+          "chunkIndex": 70,
+          "contentHash": "e84eb9b3aa0dada9fdf94d66dd087a129d3520e7350320dc5ee70238859ce42e",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.7142857142857143
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "69",
+          "chunkIndex": 68,
+          "contentHash": "26709d3e7844e188376a7ec3db589e0288e32871e7c912c7344515eadefa13b2",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "72",
+          "chunkIndex": 71,
+          "contentHash": "43808414bc3906028c44c2f4de8001496bfeb977bbb379a5b3ceb77481a069b3",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "11",
+          "chunkIndex": 10,
+          "contentHash": "e143d0e1b2d976afca0a62a90be381c365e3f1f36c7072efe3e75a14dbb69b31",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "67",
+          "chunkIndex": 66,
+          "contentHash": "c03aaf16f48e68a7a1efb6aaac8f89973c617f060fc5b4775d019e63986c59d2",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "70",
+          "chunkIndex": 69,
+          "contentHash": "9b1b4220fb9c029be76ef84155263ef8daf5c105d20be028260734933a6692d8",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "14",
+          "chunkIndex": 13,
+          "contentHash": "317e0736aa47115b95e91cd1832f41fd1078a1aab854a547ab57e5ac606572b6",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "10",
+          "chunkIndex": 9,
+          "contentHash": "6e5fcc04b1a2a05b28c66244baf64ba0990d42b2ab805d22c3eb1704c11cb33a",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.2857142857142857
+        }
+      ]
+    },
+    {
+      "runKey": "employment-notice-period:rrf-20-candidates-75",
+      "evaluationId": "employment-notice-period",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "71",
+          "chunkIndex": 70,
+          "contentHash": "e84eb9b3aa0dada9fdf94d66dd087a129d3520e7350320dc5ee70238859ce42e",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.7142857142857143
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "69",
+          "chunkIndex": 68,
+          "contentHash": "26709d3e7844e188376a7ec3db589e0288e32871e7c912c7344515eadefa13b2",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "72",
+          "chunkIndex": 71,
+          "contentHash": "43808414bc3906028c44c2f4de8001496bfeb977bbb379a5b3ceb77481a069b3",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "11",
+          "chunkIndex": 10,
+          "contentHash": "e143d0e1b2d976afca0a62a90be381c365e3f1f36c7072efe3e75a14dbb69b31",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "67",
+          "chunkIndex": 66,
+          "contentHash": "c03aaf16f48e68a7a1efb6aaac8f89973c617f060fc5b4775d019e63986c59d2",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "70",
+          "chunkIndex": 69,
+          "contentHash": "9b1b4220fb9c029be76ef84155263ef8daf5c105d20be028260734933a6692d8",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "14",
+          "chunkIndex": 13,
+          "contentHash": "317e0736aa47115b95e91cd1832f41fd1078a1aab854a547ab57e5ac606572b6",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "10",
+          "chunkIndex": 9,
+          "contentHash": "6e5fcc04b1a2a05b28c66244baf64ba0990d42b2ab805d22c3eb1704c11cb33a",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.2857142857142857
+        }
+      ]
+    },
+    {
+      "runKey": "employment-notice-period:rrf-40-candidates-50",
+      "evaluationId": "employment-notice-period",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "71",
+          "chunkIndex": 70,
+          "contentHash": "e84eb9b3aa0dada9fdf94d66dd087a129d3520e7350320dc5ee70238859ce42e",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.7142857142857143
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "69",
+          "chunkIndex": 68,
+          "contentHash": "26709d3e7844e188376a7ec3db589e0288e32871e7c912c7344515eadefa13b2",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "72",
+          "chunkIndex": 71,
+          "contentHash": "43808414bc3906028c44c2f4de8001496bfeb977bbb379a5b3ceb77481a069b3",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "11",
+          "chunkIndex": 10,
+          "contentHash": "e143d0e1b2d976afca0a62a90be381c365e3f1f36c7072efe3e75a14dbb69b31",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "67",
+          "chunkIndex": 66,
+          "contentHash": "c03aaf16f48e68a7a1efb6aaac8f89973c617f060fc5b4775d019e63986c59d2",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "70",
+          "chunkIndex": 69,
+          "contentHash": "9b1b4220fb9c029be76ef84155263ef8daf5c105d20be028260734933a6692d8",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "14",
+          "chunkIndex": 13,
+          "contentHash": "317e0736aa47115b95e91cd1832f41fd1078a1aab854a547ab57e5ac606572b6",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "10",
+          "chunkIndex": 9,
+          "contentHash": "6e5fcc04b1a2a05b28c66244baf64ba0990d42b2ab805d22c3eb1704c11cb33a",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.2857142857142857
+        }
+      ]
+    },
+    {
+      "runKey": "employment-notice-period:rrf-40-candidates-75",
+      "evaluationId": "employment-notice-period",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "71",
+          "chunkIndex": 70,
+          "contentHash": "e84eb9b3aa0dada9fdf94d66dd087a129d3520e7350320dc5ee70238859ce42e",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.7142857142857143
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "69",
+          "chunkIndex": 68,
+          "contentHash": "26709d3e7844e188376a7ec3db589e0288e32871e7c912c7344515eadefa13b2",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "72",
+          "chunkIndex": 71,
+          "contentHash": "43808414bc3906028c44c2f4de8001496bfeb977bbb379a5b3ceb77481a069b3",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "11",
+          "chunkIndex": 10,
+          "contentHash": "e143d0e1b2d976afca0a62a90be381c365e3f1f36c7072efe3e75a14dbb69b31",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "67",
+          "chunkIndex": 66,
+          "contentHash": "c03aaf16f48e68a7a1efb6aaac8f89973c617f060fc5b4775d019e63986c59d2",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "70",
+          "chunkIndex": 69,
+          "contentHash": "9b1b4220fb9c029be76ef84155263ef8daf5c105d20be028260734933a6692d8",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "14",
+          "chunkIndex": 13,
+          "contentHash": "317e0736aa47115b95e91cd1832f41fd1078a1aab854a547ab57e5ac606572b6",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "10",
+          "chunkIndex": 9,
+          "contentHash": "6e5fcc04b1a2a05b28c66244baf64ba0990d42b2ab805d22c3eb1704c11cb33a",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.2857142857142857
+        }
+      ]
+    },
+    {
+      "runKey": "employment-notice-period:rrf-60-candidates-50",
+      "evaluationId": "employment-notice-period",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "71",
+          "chunkIndex": 70,
+          "contentHash": "e84eb9b3aa0dada9fdf94d66dd087a129d3520e7350320dc5ee70238859ce42e",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.7142857142857143
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "69",
+          "chunkIndex": 68,
+          "contentHash": "26709d3e7844e188376a7ec3db589e0288e32871e7c912c7344515eadefa13b2",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "72",
+          "chunkIndex": 71,
+          "contentHash": "43808414bc3906028c44c2f4de8001496bfeb977bbb379a5b3ceb77481a069b3",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "11",
+          "chunkIndex": 10,
+          "contentHash": "e143d0e1b2d976afca0a62a90be381c365e3f1f36c7072efe3e75a14dbb69b31",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "67",
+          "chunkIndex": 66,
+          "contentHash": "c03aaf16f48e68a7a1efb6aaac8f89973c617f060fc5b4775d019e63986c59d2",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "70",
+          "chunkIndex": 69,
+          "contentHash": "9b1b4220fb9c029be76ef84155263ef8daf5c105d20be028260734933a6692d8",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "14",
+          "chunkIndex": 13,
+          "contentHash": "317e0736aa47115b95e91cd1832f41fd1078a1aab854a547ab57e5ac606572b6",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "10",
+          "chunkIndex": 9,
+          "contentHash": "6e5fcc04b1a2a05b28c66244baf64ba0990d42b2ab805d22c3eb1704c11cb33a",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.2857142857142857
+        }
+      ]
+    },
+    {
+      "runKey": "employment-notice-period:rrf-60-candidates-75",
+      "evaluationId": "employment-notice-period",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "71",
+          "chunkIndex": 70,
+          "contentHash": "e84eb9b3aa0dada9fdf94d66dd087a129d3520e7350320dc5ee70238859ce42e",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.7142857142857143
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "69",
+          "chunkIndex": 68,
+          "contentHash": "26709d3e7844e188376a7ec3db589e0288e32871e7c912c7344515eadefa13b2",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "72",
+          "chunkIndex": 71,
+          "contentHash": "43808414bc3906028c44c2f4de8001496bfeb977bbb379a5b3ceb77481a069b3",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "11",
+          "chunkIndex": 10,
+          "contentHash": "e143d0e1b2d976afca0a62a90be381c365e3f1f36c7072efe3e75a14dbb69b31",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "67",
+          "chunkIndex": 66,
+          "contentHash": "c03aaf16f48e68a7a1efb6aaac8f89973c617f060fc5b4775d019e63986c59d2",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "70",
+          "chunkIndex": 69,
+          "contentHash": "9b1b4220fb9c029be76ef84155263ef8daf5c105d20be028260734933a6692d8",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.5714285714285714
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "14",
+          "chunkIndex": 13,
+          "contentHash": "317e0736aa47115b95e91cd1832f41fd1078a1aab854a547ab57e5ac606572b6",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2857142857142857
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "10",
+          "chunkIndex": 9,
+          "contentHash": "6e5fcc04b1a2a05b28c66244baf64ba0990d42b2ab805d22c3eb1704c11cb33a",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.2857142857142857
+        }
+      ]
+    },
+    {
+      "runKey": "employment-overtime-pay:rrf-20-candidates-50",
+      "evaluationId": "employment-overtime-pay",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "24",
+          "chunkIndex": 23,
+          "contentHash": "572c507a0bafdaf30c458d0c762d4acf1e67617930cfd796481f31a1d89eacaa",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.4
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "27",
+          "chunkIndex": 26,
+          "contentHash": "576408f65409c9658fe6ac3a520ebe997cef72b6cba58962c46659bde55cce23",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "23",
+          "chunkIndex": 22,
+          "contentHash": "26c59e4e5f5ddb8423c55e7dcdf4a7877a647c91038c81b0edccdb427604b703",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.6
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "20",
+          "chunkIndex": 19,
+          "contentHash": "4f0fd124ae1a543142e2121c2dffbbb23272ffebfcedb92dd70f23a8df703131",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "21",
+          "chunkIndex": 20,
+          "contentHash": "14a7ddb61adaa68a0510cfcec9f49ab21892a3125c94186edda0539a3bdb082b",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "25",
+          "chunkIndex": 24,
+          "contentHash": "f9960301160e46df156776b04895ea9f7f05fe6c5fa9bff06f85c63855ea5c24",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "28",
+          "chunkIndex": 27,
+          "contentHash": "77f281b270d6cac723e3e36133b33171aff5ac3bc28cd858214342a7cc3d7d3c",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "56",
+          "chunkIndex": 55,
+          "contentHash": "9430cdc3c8dc5c81cf8cf746332fa13f6807c738f00840452a21c715c85bd158",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.8
+        }
+      ]
+    },
+    {
+      "runKey": "employment-overtime-pay:rrf-20-candidates-75",
+      "evaluationId": "employment-overtime-pay",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "24",
+          "chunkIndex": 23,
+          "contentHash": "572c507a0bafdaf30c458d0c762d4acf1e67617930cfd796481f31a1d89eacaa",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.4
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "27",
+          "chunkIndex": 26,
+          "contentHash": "576408f65409c9658fe6ac3a520ebe997cef72b6cba58962c46659bde55cce23",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "23",
+          "chunkIndex": 22,
+          "contentHash": "26c59e4e5f5ddb8423c55e7dcdf4a7877a647c91038c81b0edccdb427604b703",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.6
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "20",
+          "chunkIndex": 19,
+          "contentHash": "4f0fd124ae1a543142e2121c2dffbbb23272ffebfcedb92dd70f23a8df703131",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "21",
+          "chunkIndex": 20,
+          "contentHash": "14a7ddb61adaa68a0510cfcec9f49ab21892a3125c94186edda0539a3bdb082b",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "25",
+          "chunkIndex": 24,
+          "contentHash": "f9960301160e46df156776b04895ea9f7f05fe6c5fa9bff06f85c63855ea5c24",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "28",
+          "chunkIndex": 27,
+          "contentHash": "77f281b270d6cac723e3e36133b33171aff5ac3bc28cd858214342a7cc3d7d3c",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "56",
+          "chunkIndex": 55,
+          "contentHash": "9430cdc3c8dc5c81cf8cf746332fa13f6807c738f00840452a21c715c85bd158",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.8
+        }
+      ]
+    },
+    {
+      "runKey": "employment-overtime-pay:rrf-40-candidates-50",
+      "evaluationId": "employment-overtime-pay",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "24",
+          "chunkIndex": 23,
+          "contentHash": "572c507a0bafdaf30c458d0c762d4acf1e67617930cfd796481f31a1d89eacaa",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.4
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "27",
+          "chunkIndex": 26,
+          "contentHash": "576408f65409c9658fe6ac3a520ebe997cef72b6cba58962c46659bde55cce23",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "23",
+          "chunkIndex": 22,
+          "contentHash": "26c59e4e5f5ddb8423c55e7dcdf4a7877a647c91038c81b0edccdb427604b703",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.6
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "20",
+          "chunkIndex": 19,
+          "contentHash": "4f0fd124ae1a543142e2121c2dffbbb23272ffebfcedb92dd70f23a8df703131",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "21",
+          "chunkIndex": 20,
+          "contentHash": "14a7ddb61adaa68a0510cfcec9f49ab21892a3125c94186edda0539a3bdb082b",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "25",
+          "chunkIndex": 24,
+          "contentHash": "f9960301160e46df156776b04895ea9f7f05fe6c5fa9bff06f85c63855ea5c24",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "28",
+          "chunkIndex": 27,
+          "contentHash": "77f281b270d6cac723e3e36133b33171aff5ac3bc28cd858214342a7cc3d7d3c",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "56",
+          "chunkIndex": 55,
+          "contentHash": "9430cdc3c8dc5c81cf8cf746332fa13f6807c738f00840452a21c715c85bd158",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.8
+        }
+      ]
+    },
+    {
+      "runKey": "employment-overtime-pay:rrf-40-candidates-75",
+      "evaluationId": "employment-overtime-pay",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "24",
+          "chunkIndex": 23,
+          "contentHash": "572c507a0bafdaf30c458d0c762d4acf1e67617930cfd796481f31a1d89eacaa",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.4
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "27",
+          "chunkIndex": 26,
+          "contentHash": "576408f65409c9658fe6ac3a520ebe997cef72b6cba58962c46659bde55cce23",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "23",
+          "chunkIndex": 22,
+          "contentHash": "26c59e4e5f5ddb8423c55e7dcdf4a7877a647c91038c81b0edccdb427604b703",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.6
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "20",
+          "chunkIndex": 19,
+          "contentHash": "4f0fd124ae1a543142e2121c2dffbbb23272ffebfcedb92dd70f23a8df703131",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "21",
+          "chunkIndex": 20,
+          "contentHash": "14a7ddb61adaa68a0510cfcec9f49ab21892a3125c94186edda0539a3bdb082b",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "25",
+          "chunkIndex": 24,
+          "contentHash": "f9960301160e46df156776b04895ea9f7f05fe6c5fa9bff06f85c63855ea5c24",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "28",
+          "chunkIndex": 27,
+          "contentHash": "77f281b270d6cac723e3e36133b33171aff5ac3bc28cd858214342a7cc3d7d3c",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "56",
+          "chunkIndex": 55,
+          "contentHash": "9430cdc3c8dc5c81cf8cf746332fa13f6807c738f00840452a21c715c85bd158",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.8
+        }
+      ]
+    },
+    {
+      "runKey": "employment-overtime-pay:rrf-60-candidates-50",
+      "evaluationId": "employment-overtime-pay",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "24",
+          "chunkIndex": 23,
+          "contentHash": "572c507a0bafdaf30c458d0c762d4acf1e67617930cfd796481f31a1d89eacaa",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.4
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "27",
+          "chunkIndex": 26,
+          "contentHash": "576408f65409c9658fe6ac3a520ebe997cef72b6cba58962c46659bde55cce23",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "23",
+          "chunkIndex": 22,
+          "contentHash": "26c59e4e5f5ddb8423c55e7dcdf4a7877a647c91038c81b0edccdb427604b703",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.6
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "20",
+          "chunkIndex": 19,
+          "contentHash": "4f0fd124ae1a543142e2121c2dffbbb23272ffebfcedb92dd70f23a8df703131",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "21",
+          "chunkIndex": 20,
+          "contentHash": "14a7ddb61adaa68a0510cfcec9f49ab21892a3125c94186edda0539a3bdb082b",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "25",
+          "chunkIndex": 24,
+          "contentHash": "f9960301160e46df156776b04895ea9f7f05fe6c5fa9bff06f85c63855ea5c24",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "28",
+          "chunkIndex": 27,
+          "contentHash": "77f281b270d6cac723e3e36133b33171aff5ac3bc28cd858214342a7cc3d7d3c",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "56",
+          "chunkIndex": 55,
+          "contentHash": "9430cdc3c8dc5c81cf8cf746332fa13f6807c738f00840452a21c715c85bd158",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.8
+        }
+      ]
+    },
+    {
+      "runKey": "employment-overtime-pay:rrf-60-candidates-75",
+      "evaluationId": "employment-overtime-pay",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "24",
+          "chunkIndex": 23,
+          "contentHash": "572c507a0bafdaf30c458d0c762d4acf1e67617930cfd796481f31a1d89eacaa",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.4
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "27",
+          "chunkIndex": 26,
+          "contentHash": "576408f65409c9658fe6ac3a520ebe997cef72b6cba58962c46659bde55cce23",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "23",
+          "chunkIndex": 22,
+          "contentHash": "26c59e4e5f5ddb8423c55e7dcdf4a7877a647c91038c81b0edccdb427604b703",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.6
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "20",
+          "chunkIndex": 19,
+          "contentHash": "4f0fd124ae1a543142e2121c2dffbbb23272ffebfcedb92dd70f23a8df703131",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "21",
+          "chunkIndex": 20,
+          "contentHash": "14a7ddb61adaa68a0510cfcec9f49ab21892a3125c94186edda0539a3bdb082b",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "25",
+          "chunkIndex": 24,
+          "contentHash": "f9960301160e46df156776b04895ea9f7f05fe6c5fa9bff06f85c63855ea5c24",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "28",
+          "chunkIndex": 27,
+          "contentHash": "77f281b270d6cac723e3e36133b33171aff5ac3bc28cd858214342a7cc3d7d3c",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.2
+        },
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "56",
+          "chunkIndex": 55,
+          "contentHash": "9430cdc3c8dc5c81cf8cf746332fa13f6807c738f00840452a21c715c85bd158",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.8
+        }
+      ]
+    },
+    {
+      "runKey": "employment-probation:rrf-20-candidates-50",
+      "evaluationId": "employment-probation",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "15",
+          "chunkIndex": 14,
+          "contentHash": "380a8f1dbd94da3476c75d9caff2b534608a63be2dfdbb20d26695f169719dae",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.14285714285714285
+        }
+      ]
+    },
+    {
+      "runKey": "employment-probation:rrf-20-candidates-75",
+      "evaluationId": "employment-probation",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "15",
+          "chunkIndex": 14,
+          "contentHash": "380a8f1dbd94da3476c75d9caff2b534608a63be2dfdbb20d26695f169719dae",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.14285714285714285
+        }
+      ]
+    },
+    {
+      "runKey": "employment-probation:rrf-40-candidates-50",
+      "evaluationId": "employment-probation",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "15",
+          "chunkIndex": 14,
+          "contentHash": "380a8f1dbd94da3476c75d9caff2b534608a63be2dfdbb20d26695f169719dae",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.14285714285714285
+        }
+      ]
+    },
+    {
+      "runKey": "employment-probation:rrf-40-candidates-75",
+      "evaluationId": "employment-probation",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "15",
+          "chunkIndex": 14,
+          "contentHash": "380a8f1dbd94da3476c75d9caff2b534608a63be2dfdbb20d26695f169719dae",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.14285714285714285
+        }
+      ]
+    },
+    {
+      "runKey": "employment-probation:rrf-60-candidates-50",
+      "evaluationId": "employment-probation",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "15",
+          "chunkIndex": 14,
+          "contentHash": "380a8f1dbd94da3476c75d9caff2b534608a63be2dfdbb20d26695f169719dae",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.14285714285714285
+        }
+      ]
+    },
+    {
+      "runKey": "employment-probation:rrf-60-candidates-75",
+      "evaluationId": "employment-probation",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "03/L-212",
+          "articleNumber": "15",
+          "chunkIndex": 14,
+          "contentHash": "380a8f1dbd94da3476c75d9caff2b534608a63be2dfdbb20d26695f169719dae",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.14285714285714285
+        }
+      ]
+    },
+    {
+      "runKey": "service-nonperformance-liability:rrf-20-candidates-50",
+      "evaluationId": "service-nonperformance-liability",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "257",
+          "chunkIndex": 256,
+          "contentHash": "b1e71b2d7c26b6e6cd79e0258d298e24155f229cf8024cb03c498d87cadc6ee9",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.625
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "437",
+          "chunkIndex": 436,
+          "contentHash": "0653224d0014b6c8854f7a25280b7ecfb1739f40a5362f20b45fe2feef37500f",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "377",
+          "chunkIndex": 376,
+          "contentHash": "e9c612e3dc54c9b3cc45808f01ea67ebdb75cef7d2f78208da78ea462ed8c5ea",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "253",
+          "chunkIndex": 252,
+          "contentHash": "48cde3c066bc69b4f7a9be59c46dd1552b1e8fb63bce667c96da6c080ed394d5",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "432",
+          "chunkIndex": 431,
+          "contentHash": "06ef09463bf1cc3e3203ffd91fbb93345a1892c9bac9b70ced2b26299555a691",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.125
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "1014",
+          "chunkIndex": 1013,
+          "contentHash": "ca5d39ee3a5b94a9c50b00f3512ae15d6b03369c59f668eae3e815cf83022927",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "256",
+          "chunkIndex": 255,
+          "contentHash": "c722419ee28f9e00f501ab15300c4856f4c3dc9053cbe108d49780626c258913",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "296",
+          "chunkIndex": 295,
+          "contentHash": "38a68e36ffc73bb69cbe9ead825713ce9b94283b374f9a25fd25e0453c292800",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.25
+        }
+      ]
+    },
+    {
+      "runKey": "service-nonperformance-liability:rrf-20-candidates-75",
+      "evaluationId": "service-nonperformance-liability",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "257",
+          "chunkIndex": 256,
+          "contentHash": "b1e71b2d7c26b6e6cd79e0258d298e24155f229cf8024cb03c498d87cadc6ee9",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.625
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "437",
+          "chunkIndex": 436,
+          "contentHash": "0653224d0014b6c8854f7a25280b7ecfb1739f40a5362f20b45fe2feef37500f",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "377",
+          "chunkIndex": 376,
+          "contentHash": "e9c612e3dc54c9b3cc45808f01ea67ebdb75cef7d2f78208da78ea462ed8c5ea",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "253",
+          "chunkIndex": 252,
+          "contentHash": "48cde3c066bc69b4f7a9be59c46dd1552b1e8fb63bce667c96da6c080ed394d5",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "432",
+          "chunkIndex": 431,
+          "contentHash": "06ef09463bf1cc3e3203ffd91fbb93345a1892c9bac9b70ced2b26299555a691",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.125
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "1014",
+          "chunkIndex": 1013,
+          "contentHash": "ca5d39ee3a5b94a9c50b00f3512ae15d6b03369c59f668eae3e815cf83022927",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "256",
+          "chunkIndex": 255,
+          "contentHash": "c722419ee28f9e00f501ab15300c4856f4c3dc9053cbe108d49780626c258913",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "296",
+          "chunkIndex": 295,
+          "contentHash": "38a68e36ffc73bb69cbe9ead825713ce9b94283b374f9a25fd25e0453c292800",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.25
+        }
+      ]
+    },
+    {
+      "runKey": "service-nonperformance-liability:rrf-40-candidates-50",
+      "evaluationId": "service-nonperformance-liability",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "257",
+          "chunkIndex": 256,
+          "contentHash": "b1e71b2d7c26b6e6cd79e0258d298e24155f229cf8024cb03c498d87cadc6ee9",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.625
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "437",
+          "chunkIndex": 436,
+          "contentHash": "0653224d0014b6c8854f7a25280b7ecfb1739f40a5362f20b45fe2feef37500f",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "377",
+          "chunkIndex": 376,
+          "contentHash": "e9c612e3dc54c9b3cc45808f01ea67ebdb75cef7d2f78208da78ea462ed8c5ea",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "253",
+          "chunkIndex": 252,
+          "contentHash": "48cde3c066bc69b4f7a9be59c46dd1552b1e8fb63bce667c96da6c080ed394d5",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "432",
+          "chunkIndex": 431,
+          "contentHash": "06ef09463bf1cc3e3203ffd91fbb93345a1892c9bac9b70ced2b26299555a691",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.125
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "1014",
+          "chunkIndex": 1013,
+          "contentHash": "ca5d39ee3a5b94a9c50b00f3512ae15d6b03369c59f668eae3e815cf83022927",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "256",
+          "chunkIndex": 255,
+          "contentHash": "c722419ee28f9e00f501ab15300c4856f4c3dc9053cbe108d49780626c258913",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "296",
+          "chunkIndex": 295,
+          "contentHash": "38a68e36ffc73bb69cbe9ead825713ce9b94283b374f9a25fd25e0453c292800",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.25
+        }
+      ]
+    },
+    {
+      "runKey": "service-nonperformance-liability:rrf-40-candidates-75",
+      "evaluationId": "service-nonperformance-liability",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "257",
+          "chunkIndex": 256,
+          "contentHash": "b1e71b2d7c26b6e6cd79e0258d298e24155f229cf8024cb03c498d87cadc6ee9",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.625
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "437",
+          "chunkIndex": 436,
+          "contentHash": "0653224d0014b6c8854f7a25280b7ecfb1739f40a5362f20b45fe2feef37500f",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "377",
+          "chunkIndex": 376,
+          "contentHash": "e9c612e3dc54c9b3cc45808f01ea67ebdb75cef7d2f78208da78ea462ed8c5ea",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "253",
+          "chunkIndex": 252,
+          "contentHash": "48cde3c066bc69b4f7a9be59c46dd1552b1e8fb63bce667c96da6c080ed394d5",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "432",
+          "chunkIndex": 431,
+          "contentHash": "06ef09463bf1cc3e3203ffd91fbb93345a1892c9bac9b70ced2b26299555a691",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.125
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "1014",
+          "chunkIndex": 1013,
+          "contentHash": "ca5d39ee3a5b94a9c50b00f3512ae15d6b03369c59f668eae3e815cf83022927",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "256",
+          "chunkIndex": 255,
+          "contentHash": "c722419ee28f9e00f501ab15300c4856f4c3dc9053cbe108d49780626c258913",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "296",
+          "chunkIndex": 295,
+          "contentHash": "38a68e36ffc73bb69cbe9ead825713ce9b94283b374f9a25fd25e0453c292800",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.25
+        }
+      ]
+    },
+    {
+      "runKey": "service-nonperformance-liability:rrf-60-candidates-50",
+      "evaluationId": "service-nonperformance-liability",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "257",
+          "chunkIndex": 256,
+          "contentHash": "b1e71b2d7c26b6e6cd79e0258d298e24155f229cf8024cb03c498d87cadc6ee9",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.625
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "437",
+          "chunkIndex": 436,
+          "contentHash": "0653224d0014b6c8854f7a25280b7ecfb1739f40a5362f20b45fe2feef37500f",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "377",
+          "chunkIndex": 376,
+          "contentHash": "e9c612e3dc54c9b3cc45808f01ea67ebdb75cef7d2f78208da78ea462ed8c5ea",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "253",
+          "chunkIndex": 252,
+          "contentHash": "48cde3c066bc69b4f7a9be59c46dd1552b1e8fb63bce667c96da6c080ed394d5",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "432",
+          "chunkIndex": 431,
+          "contentHash": "06ef09463bf1cc3e3203ffd91fbb93345a1892c9bac9b70ced2b26299555a691",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.125
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "1014",
+          "chunkIndex": 1013,
+          "contentHash": "ca5d39ee3a5b94a9c50b00f3512ae15d6b03369c59f668eae3e815cf83022927",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "256",
+          "chunkIndex": 255,
+          "contentHash": "c722419ee28f9e00f501ab15300c4856f4c3dc9053cbe108d49780626c258913",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "296",
+          "chunkIndex": 295,
+          "contentHash": "38a68e36ffc73bb69cbe9ead825713ce9b94283b374f9a25fd25e0453c292800",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.25
+        }
+      ]
+    },
+    {
+      "runKey": "service-nonperformance-liability:rrf-60-candidates-75",
+      "evaluationId": "service-nonperformance-liability",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "257",
+          "chunkIndex": 256,
+          "contentHash": "b1e71b2d7c26b6e6cd79e0258d298e24155f229cf8024cb03c498d87cadc6ee9",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.625
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "437",
+          "chunkIndex": 436,
+          "contentHash": "0653224d0014b6c8854f7a25280b7ecfb1739f40a5362f20b45fe2feef37500f",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "377",
+          "chunkIndex": 376,
+          "contentHash": "e9c612e3dc54c9b3cc45808f01ea67ebdb75cef7d2f78208da78ea462ed8c5ea",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "253",
+          "chunkIndex": 252,
+          "contentHash": "48cde3c066bc69b4f7a9be59c46dd1552b1e8fb63bce667c96da6c080ed394d5",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "432",
+          "chunkIndex": 431,
+          "contentHash": "06ef09463bf1cc3e3203ffd91fbb93345a1892c9bac9b70ced2b26299555a691",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.125
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "1014",
+          "chunkIndex": 1013,
+          "contentHash": "ca5d39ee3a5b94a9c50b00f3512ae15d6b03369c59f668eae3e815cf83022927",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "256",
+          "chunkIndex": 255,
+          "contentHash": "c722419ee28f9e00f501ab15300c4856f4c3dc9053cbe108d49780626c258913",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.375
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "296",
+          "chunkIndex": 295,
+          "contentHash": "38a68e36ffc73bb69cbe9ead825713ce9b94283b374f9a25fd25e0453c292800",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.25
+        }
+      ]
+    },
+    {
+      "runKey": "service-termination:rrf-20-candidates-50",
+      "evaluationId": "service-termination",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "582",
+          "chunkIndex": 581,
+          "contentHash": "6795fb089fb1d369f04c0beef0c92dc3e3af9cab90770b6c6af53770b5c0ed6a",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "535",
+          "chunkIndex": 534,
+          "contentHash": "13b4a538917c0b76239f51f7981691ae20a4cc7c05825756cba45d604022d7f2",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "487",
+          "chunkIndex": 486,
+          "contentHash": "f30cbdb8263e7e5b2371fda01525e021efef66ab1c518136c1a16888fd7587d1",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "623",
+          "chunkIndex": 622,
+          "contentHash": "eabacd3104d1ceaf7c9c405bc580643561bc8fd187f629caf0c76438e3786d2f",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "124",
+          "chunkIndex": 123,
+          "contentHash": "ff1cefedade90ef1bfbc80ec1876d852d10546ff4578b19f2b56abdca371fe08",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "835",
+          "chunkIndex": 834,
+          "contentHash": "7410e5b6c3bf7260fd26539efe1e299997dfae7631095c5c98d66dc444c44ac5",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "49",
+          "chunkIndex": 48,
+          "contentHash": "c2b9fbfb8905bbb495dc3724c30a56ce835dd271b13535bd13958b06d87132b9",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "service-termination:rrf-20-candidates-75",
+      "evaluationId": "service-termination",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "582",
+          "chunkIndex": 581,
+          "contentHash": "6795fb089fb1d369f04c0beef0c92dc3e3af9cab90770b6c6af53770b5c0ed6a",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "535",
+          "chunkIndex": 534,
+          "contentHash": "13b4a538917c0b76239f51f7981691ae20a4cc7c05825756cba45d604022d7f2",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "487",
+          "chunkIndex": 486,
+          "contentHash": "f30cbdb8263e7e5b2371fda01525e021efef66ab1c518136c1a16888fd7587d1",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "623",
+          "chunkIndex": 622,
+          "contentHash": "eabacd3104d1ceaf7c9c405bc580643561bc8fd187f629caf0c76438e3786d2f",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "124",
+          "chunkIndex": 123,
+          "contentHash": "ff1cefedade90ef1bfbc80ec1876d852d10546ff4578b19f2b56abdca371fe08",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "835",
+          "chunkIndex": 834,
+          "contentHash": "7410e5b6c3bf7260fd26539efe1e299997dfae7631095c5c98d66dc444c44ac5",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "49",
+          "chunkIndex": 48,
+          "contentHash": "c2b9fbfb8905bbb495dc3724c30a56ce835dd271b13535bd13958b06d87132b9",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "service-termination:rrf-40-candidates-50",
+      "evaluationId": "service-termination",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "582",
+          "chunkIndex": 581,
+          "contentHash": "6795fb089fb1d369f04c0beef0c92dc3e3af9cab90770b6c6af53770b5c0ed6a",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "535",
+          "chunkIndex": 534,
+          "contentHash": "13b4a538917c0b76239f51f7981691ae20a4cc7c05825756cba45d604022d7f2",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "487",
+          "chunkIndex": 486,
+          "contentHash": "f30cbdb8263e7e5b2371fda01525e021efef66ab1c518136c1a16888fd7587d1",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "623",
+          "chunkIndex": 622,
+          "contentHash": "eabacd3104d1ceaf7c9c405bc580643561bc8fd187f629caf0c76438e3786d2f",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "124",
+          "chunkIndex": 123,
+          "contentHash": "ff1cefedade90ef1bfbc80ec1876d852d10546ff4578b19f2b56abdca371fe08",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "835",
+          "chunkIndex": 834,
+          "contentHash": "7410e5b6c3bf7260fd26539efe1e299997dfae7631095c5c98d66dc444c44ac5",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "49",
+          "chunkIndex": 48,
+          "contentHash": "c2b9fbfb8905bbb495dc3724c30a56ce835dd271b13535bd13958b06d87132b9",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "service-termination:rrf-40-candidates-75",
+      "evaluationId": "service-termination",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "582",
+          "chunkIndex": 581,
+          "contentHash": "6795fb089fb1d369f04c0beef0c92dc3e3af9cab90770b6c6af53770b5c0ed6a",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "535",
+          "chunkIndex": 534,
+          "contentHash": "13b4a538917c0b76239f51f7981691ae20a4cc7c05825756cba45d604022d7f2",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "487",
+          "chunkIndex": 486,
+          "contentHash": "f30cbdb8263e7e5b2371fda01525e021efef66ab1c518136c1a16888fd7587d1",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "623",
+          "chunkIndex": 622,
+          "contentHash": "eabacd3104d1ceaf7c9c405bc580643561bc8fd187f629caf0c76438e3786d2f",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "124",
+          "chunkIndex": 123,
+          "contentHash": "ff1cefedade90ef1bfbc80ec1876d852d10546ff4578b19f2b56abdca371fe08",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "835",
+          "chunkIndex": 834,
+          "contentHash": "7410e5b6c3bf7260fd26539efe1e299997dfae7631095c5c98d66dc444c44ac5",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "49",
+          "chunkIndex": 48,
+          "contentHash": "c2b9fbfb8905bbb495dc3724c30a56ce835dd271b13535bd13958b06d87132b9",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "service-termination:rrf-60-candidates-50",
+      "evaluationId": "service-termination",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "582",
+          "chunkIndex": 581,
+          "contentHash": "6795fb089fb1d369f04c0beef0c92dc3e3af9cab90770b6c6af53770b5c0ed6a",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "535",
+          "chunkIndex": 534,
+          "contentHash": "13b4a538917c0b76239f51f7981691ae20a4cc7c05825756cba45d604022d7f2",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "487",
+          "chunkIndex": 486,
+          "contentHash": "f30cbdb8263e7e5b2371fda01525e021efef66ab1c518136c1a16888fd7587d1",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "623",
+          "chunkIndex": 622,
+          "contentHash": "eabacd3104d1ceaf7c9c405bc580643561bc8fd187f629caf0c76438e3786d2f",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "124",
+          "chunkIndex": 123,
+          "contentHash": "ff1cefedade90ef1bfbc80ec1876d852d10546ff4578b19f2b56abdca371fe08",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "835",
+          "chunkIndex": 834,
+          "contentHash": "7410e5b6c3bf7260fd26539efe1e299997dfae7631095c5c98d66dc444c44ac5",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "49",
+          "chunkIndex": 48,
+          "contentHash": "c2b9fbfb8905bbb495dc3724c30a56ce835dd271b13535bd13958b06d87132b9",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "service-termination:rrf-60-candidates-75",
+      "evaluationId": "service-termination",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "582",
+          "chunkIndex": 581,
+          "contentHash": "6795fb089fb1d369f04c0beef0c92dc3e3af9cab90770b6c6af53770b5c0ed6a",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "535",
+          "chunkIndex": 534,
+          "contentHash": "13b4a538917c0b76239f51f7981691ae20a4cc7c05825756cba45d604022d7f2",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "487",
+          "chunkIndex": 486,
+          "contentHash": "f30cbdb8263e7e5b2371fda01525e021efef66ab1c518136c1a16888fd7587d1",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "623",
+          "chunkIndex": 622,
+          "contentHash": "eabacd3104d1ceaf7c9c405bc580643561bc8fd187f629caf0c76438e3786d2f",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "124",
+          "chunkIndex": 123,
+          "contentHash": "ff1cefedade90ef1bfbc80ec1876d852d10546ff4578b19f2b56abdca371fe08",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "835",
+          "chunkIndex": 834,
+          "contentHash": "7410e5b6c3bf7260fd26539efe1e299997dfae7631095c5c98d66dc444c44ac5",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "49",
+          "chunkIndex": 48,
+          "contentHash": "c2b9fbfb8905bbb495dc3724c30a56ce835dd271b13535bd13958b06d87132b9",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "service-damages:rrf-20-candidates-50",
+      "evaluationId": "service-damages",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "173",
+          "chunkIndex": 172,
+          "contentHash": "63edc4c19810eefb8f8cd9f289b1da99c47aaedaef1d4aa444e1c356fa485441",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5555555555555556
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "143",
+          "chunkIndex": 142,
+          "contentHash": "9010347fdb5a2022d835df03c764c50665205c0d5c7c650c379b6952c1fbb20d",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "170",
+          "chunkIndex": 169,
+          "contentHash": "38f0f68c2f33286fa7e6338518b031123e5bb8f8a80b87bea84c32c986f3561b",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.1111111111111111
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "183",
+          "chunkIndex": 182,
+          "contentHash": "64ab42fe57190742d7f659ed670f374dca4a7eda9b6be04c1dc3fea9d611b08d",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "151",
+          "chunkIndex": 150,
+          "contentHash": "26c4f356292193f775e4deb69463719a324a7c4ec0beebe10aefff9e5f6f5df3",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "179",
+          "chunkIndex": 178,
+          "contentHash": "ca5381337d4c9047cb5873d5ee02344dae627617fcc16b40c7d7ed35c78ae51e",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "137",
+          "chunkIndex": 136,
+          "contentHash": "99192f2ac820b020aeccbcedb448f12458e8300fba28b08614322e4af27198b7",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "9",
+          "chunkIndex": 8,
+          "contentHash": "8a027a011891963d682f3f020bdf2f81c35dfedfeb0bcb05d158d5795cf375cc",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.1111111111111111
+        }
+      ]
+    },
+    {
+      "runKey": "service-damages:rrf-20-candidates-75",
+      "evaluationId": "service-damages",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "173",
+          "chunkIndex": 172,
+          "contentHash": "63edc4c19810eefb8f8cd9f289b1da99c47aaedaef1d4aa444e1c356fa485441",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5555555555555556
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "143",
+          "chunkIndex": 142,
+          "contentHash": "9010347fdb5a2022d835df03c764c50665205c0d5c7c650c379b6952c1fbb20d",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "170",
+          "chunkIndex": 169,
+          "contentHash": "38f0f68c2f33286fa7e6338518b031123e5bb8f8a80b87bea84c32c986f3561b",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.1111111111111111
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "183",
+          "chunkIndex": 182,
+          "contentHash": "64ab42fe57190742d7f659ed670f374dca4a7eda9b6be04c1dc3fea9d611b08d",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "151",
+          "chunkIndex": 150,
+          "contentHash": "26c4f356292193f775e4deb69463719a324a7c4ec0beebe10aefff9e5f6f5df3",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "179",
+          "chunkIndex": 178,
+          "contentHash": "ca5381337d4c9047cb5873d5ee02344dae627617fcc16b40c7d7ed35c78ae51e",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "137",
+          "chunkIndex": 136,
+          "contentHash": "99192f2ac820b020aeccbcedb448f12458e8300fba28b08614322e4af27198b7",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "9",
+          "chunkIndex": 8,
+          "contentHash": "8a027a011891963d682f3f020bdf2f81c35dfedfeb0bcb05d158d5795cf375cc",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.1111111111111111
+        }
+      ]
+    },
+    {
+      "runKey": "service-damages:rrf-40-candidates-50",
+      "evaluationId": "service-damages",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "173",
+          "chunkIndex": 172,
+          "contentHash": "63edc4c19810eefb8f8cd9f289b1da99c47aaedaef1d4aa444e1c356fa485441",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5555555555555556
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "143",
+          "chunkIndex": 142,
+          "contentHash": "9010347fdb5a2022d835df03c764c50665205c0d5c7c650c379b6952c1fbb20d",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "170",
+          "chunkIndex": 169,
+          "contentHash": "38f0f68c2f33286fa7e6338518b031123e5bb8f8a80b87bea84c32c986f3561b",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.1111111111111111
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "183",
+          "chunkIndex": 182,
+          "contentHash": "64ab42fe57190742d7f659ed670f374dca4a7eda9b6be04c1dc3fea9d611b08d",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "151",
+          "chunkIndex": 150,
+          "contentHash": "26c4f356292193f775e4deb69463719a324a7c4ec0beebe10aefff9e5f6f5df3",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "179",
+          "chunkIndex": 178,
+          "contentHash": "ca5381337d4c9047cb5873d5ee02344dae627617fcc16b40c7d7ed35c78ae51e",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "137",
+          "chunkIndex": 136,
+          "contentHash": "99192f2ac820b020aeccbcedb448f12458e8300fba28b08614322e4af27198b7",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "9",
+          "chunkIndex": 8,
+          "contentHash": "8a027a011891963d682f3f020bdf2f81c35dfedfeb0bcb05d158d5795cf375cc",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.1111111111111111
+        }
+      ]
+    },
+    {
+      "runKey": "service-damages:rrf-40-candidates-75",
+      "evaluationId": "service-damages",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "173",
+          "chunkIndex": 172,
+          "contentHash": "63edc4c19810eefb8f8cd9f289b1da99c47aaedaef1d4aa444e1c356fa485441",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5555555555555556
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "143",
+          "chunkIndex": 142,
+          "contentHash": "9010347fdb5a2022d835df03c764c50665205c0d5c7c650c379b6952c1fbb20d",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "170",
+          "chunkIndex": 169,
+          "contentHash": "38f0f68c2f33286fa7e6338518b031123e5bb8f8a80b87bea84c32c986f3561b",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.1111111111111111
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "183",
+          "chunkIndex": 182,
+          "contentHash": "64ab42fe57190742d7f659ed670f374dca4a7eda9b6be04c1dc3fea9d611b08d",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "151",
+          "chunkIndex": 150,
+          "contentHash": "26c4f356292193f775e4deb69463719a324a7c4ec0beebe10aefff9e5f6f5df3",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "179",
+          "chunkIndex": 178,
+          "contentHash": "ca5381337d4c9047cb5873d5ee02344dae627617fcc16b40c7d7ed35c78ae51e",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "137",
+          "chunkIndex": 136,
+          "contentHash": "99192f2ac820b020aeccbcedb448f12458e8300fba28b08614322e4af27198b7",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "9",
+          "chunkIndex": 8,
+          "contentHash": "8a027a011891963d682f3f020bdf2f81c35dfedfeb0bcb05d158d5795cf375cc",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.1111111111111111
+        }
+      ]
+    },
+    {
+      "runKey": "service-damages:rrf-60-candidates-50",
+      "evaluationId": "service-damages",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "173",
+          "chunkIndex": 172,
+          "contentHash": "63edc4c19810eefb8f8cd9f289b1da99c47aaedaef1d4aa444e1c356fa485441",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5555555555555556
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "143",
+          "chunkIndex": 142,
+          "contentHash": "9010347fdb5a2022d835df03c764c50665205c0d5c7c650c379b6952c1fbb20d",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "170",
+          "chunkIndex": 169,
+          "contentHash": "38f0f68c2f33286fa7e6338518b031123e5bb8f8a80b87bea84c32c986f3561b",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.1111111111111111
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "183",
+          "chunkIndex": 182,
+          "contentHash": "64ab42fe57190742d7f659ed670f374dca4a7eda9b6be04c1dc3fea9d611b08d",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "151",
+          "chunkIndex": 150,
+          "contentHash": "26c4f356292193f775e4deb69463719a324a7c4ec0beebe10aefff9e5f6f5df3",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "179",
+          "chunkIndex": 178,
+          "contentHash": "ca5381337d4c9047cb5873d5ee02344dae627617fcc16b40c7d7ed35c78ae51e",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "137",
+          "chunkIndex": 136,
+          "contentHash": "99192f2ac820b020aeccbcedb448f12458e8300fba28b08614322e4af27198b7",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "9",
+          "chunkIndex": 8,
+          "contentHash": "8a027a011891963d682f3f020bdf2f81c35dfedfeb0bcb05d158d5795cf375cc",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.1111111111111111
+        }
+      ]
+    },
+    {
+      "runKey": "service-damages:rrf-60-candidates-75",
+      "evaluationId": "service-damages",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "173",
+          "chunkIndex": 172,
+          "contentHash": "63edc4c19810eefb8f8cd9f289b1da99c47aaedaef1d4aa444e1c356fa485441",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5555555555555556
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "143",
+          "chunkIndex": 142,
+          "contentHash": "9010347fdb5a2022d835df03c764c50665205c0d5c7c650c379b6952c1fbb20d",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "170",
+          "chunkIndex": 169,
+          "contentHash": "38f0f68c2f33286fa7e6338518b031123e5bb8f8a80b87bea84c32c986f3561b",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.1111111111111111
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "183",
+          "chunkIndex": 182,
+          "contentHash": "64ab42fe57190742d7f659ed670f374dca4a7eda9b6be04c1dc3fea9d611b08d",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "151",
+          "chunkIndex": 150,
+          "contentHash": "26c4f356292193f775e4deb69463719a324a7c4ec0beebe10aefff9e5f6f5df3",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.2222222222222222
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "179",
+          "chunkIndex": 178,
+          "contentHash": "ca5381337d4c9047cb5873d5ee02344dae627617fcc16b40c7d7ed35c78ae51e",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "137",
+          "chunkIndex": 136,
+          "contentHash": "99192f2ac820b020aeccbcedb448f12458e8300fba28b08614322e4af27198b7",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "9",
+          "chunkIndex": 8,
+          "contentHash": "8a027a011891963d682f3f020bdf2f81c35dfedfeb0bcb05d158d5795cf375cc",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.1111111111111111
+        }
+      ]
+    },
+    {
+      "runKey": "lease-maintenance:rrf-20-candidates-50",
+      "evaluationId": "lease-maintenance",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "587",
+          "chunkIndex": 586,
+          "contentHash": "cbed622967560bb3fe3071a57c05dadc8139b2b89a146502ecfe94d4080f3e1c",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "597",
+          "chunkIndex": 596,
+          "contentHash": "ec04cd258cd2f6730068068f1a8e62c06eadb4e28f0637529d2164ef3be19598",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "567",
+          "chunkIndex": 566,
+          "contentHash": "69efe726719d662a6305104b0750b85bed50b5a29704474d5cd224ef7a05a598",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "363",
+          "chunkIndex": 362,
+          "contentHash": "0c4c6ab334b25495ed3f03e169ee94898cbd5e0642b93c86104750992c2b2eac",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "523",
+          "chunkIndex": 522,
+          "contentHash": "c8189cb07d84b491b96d89f70b1b8ba62f9e18275a0a5f05c27664e654c6e041",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "531",
+          "chunkIndex": 530,
+          "contentHash": "9260e23af852ca16469decfbf9e55b5722d43eb8833edbed827e35e932fbbc34",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "150",
+          "chunkIndex": 149,
+          "contentHash": "cc141f06524dc8ed93c511491cd6e47e497e8d910b00fc918cb1e95235bcc5a9",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "lease-maintenance:rrf-20-candidates-75",
+      "evaluationId": "lease-maintenance",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "587",
+          "chunkIndex": 586,
+          "contentHash": "cbed622967560bb3fe3071a57c05dadc8139b2b89a146502ecfe94d4080f3e1c",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "597",
+          "chunkIndex": 596,
+          "contentHash": "ec04cd258cd2f6730068068f1a8e62c06eadb4e28f0637529d2164ef3be19598",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "567",
+          "chunkIndex": 566,
+          "contentHash": "69efe726719d662a6305104b0750b85bed50b5a29704474d5cd224ef7a05a598",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "363",
+          "chunkIndex": 362,
+          "contentHash": "0c4c6ab334b25495ed3f03e169ee94898cbd5e0642b93c86104750992c2b2eac",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "523",
+          "chunkIndex": 522,
+          "contentHash": "c8189cb07d84b491b96d89f70b1b8ba62f9e18275a0a5f05c27664e654c6e041",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "531",
+          "chunkIndex": 530,
+          "contentHash": "9260e23af852ca16469decfbf9e55b5722d43eb8833edbed827e35e932fbbc34",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "150",
+          "chunkIndex": 149,
+          "contentHash": "cc141f06524dc8ed93c511491cd6e47e497e8d910b00fc918cb1e95235bcc5a9",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "lease-maintenance:rrf-40-candidates-50",
+      "evaluationId": "lease-maintenance",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "587",
+          "chunkIndex": 586,
+          "contentHash": "cbed622967560bb3fe3071a57c05dadc8139b2b89a146502ecfe94d4080f3e1c",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "597",
+          "chunkIndex": 596,
+          "contentHash": "ec04cd258cd2f6730068068f1a8e62c06eadb4e28f0637529d2164ef3be19598",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "567",
+          "chunkIndex": 566,
+          "contentHash": "69efe726719d662a6305104b0750b85bed50b5a29704474d5cd224ef7a05a598",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "363",
+          "chunkIndex": 362,
+          "contentHash": "0c4c6ab334b25495ed3f03e169ee94898cbd5e0642b93c86104750992c2b2eac",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "523",
+          "chunkIndex": 522,
+          "contentHash": "c8189cb07d84b491b96d89f70b1b8ba62f9e18275a0a5f05c27664e654c6e041",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "531",
+          "chunkIndex": 530,
+          "contentHash": "9260e23af852ca16469decfbf9e55b5722d43eb8833edbed827e35e932fbbc34",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "150",
+          "chunkIndex": 149,
+          "contentHash": "cc141f06524dc8ed93c511491cd6e47e497e8d910b00fc918cb1e95235bcc5a9",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "lease-maintenance:rrf-40-candidates-75",
+      "evaluationId": "lease-maintenance",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "587",
+          "chunkIndex": 586,
+          "contentHash": "cbed622967560bb3fe3071a57c05dadc8139b2b89a146502ecfe94d4080f3e1c",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "597",
+          "chunkIndex": 596,
+          "contentHash": "ec04cd258cd2f6730068068f1a8e62c06eadb4e28f0637529d2164ef3be19598",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "567",
+          "chunkIndex": 566,
+          "contentHash": "69efe726719d662a6305104b0750b85bed50b5a29704474d5cd224ef7a05a598",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "363",
+          "chunkIndex": 362,
+          "contentHash": "0c4c6ab334b25495ed3f03e169ee94898cbd5e0642b93c86104750992c2b2eac",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "523",
+          "chunkIndex": 522,
+          "contentHash": "c8189cb07d84b491b96d89f70b1b8ba62f9e18275a0a5f05c27664e654c6e041",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "531",
+          "chunkIndex": 530,
+          "contentHash": "9260e23af852ca16469decfbf9e55b5722d43eb8833edbed827e35e932fbbc34",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "150",
+          "chunkIndex": 149,
+          "contentHash": "cc141f06524dc8ed93c511491cd6e47e497e8d910b00fc918cb1e95235bcc5a9",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "lease-maintenance:rrf-60-candidates-50",
+      "evaluationId": "lease-maintenance",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "587",
+          "chunkIndex": 586,
+          "contentHash": "cbed622967560bb3fe3071a57c05dadc8139b2b89a146502ecfe94d4080f3e1c",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "597",
+          "chunkIndex": 596,
+          "contentHash": "ec04cd258cd2f6730068068f1a8e62c06eadb4e28f0637529d2164ef3be19598",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "567",
+          "chunkIndex": 566,
+          "contentHash": "69efe726719d662a6305104b0750b85bed50b5a29704474d5cd224ef7a05a598",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "363",
+          "chunkIndex": 362,
+          "contentHash": "0c4c6ab334b25495ed3f03e169ee94898cbd5e0642b93c86104750992c2b2eac",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "523",
+          "chunkIndex": 522,
+          "contentHash": "c8189cb07d84b491b96d89f70b1b8ba62f9e18275a0a5f05c27664e654c6e041",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "531",
+          "chunkIndex": 530,
+          "contentHash": "9260e23af852ca16469decfbf9e55b5722d43eb8833edbed827e35e932fbbc34",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "150",
+          "chunkIndex": 149,
+          "contentHash": "cc141f06524dc8ed93c511491cd6e47e497e8d910b00fc918cb1e95235bcc5a9",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "lease-maintenance:rrf-60-candidates-75",
+      "evaluationId": "lease-maintenance",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "587",
+          "chunkIndex": 586,
+          "contentHash": "cbed622967560bb3fe3071a57c05dadc8139b2b89a146502ecfe94d4080f3e1c",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "597",
+          "chunkIndex": 596,
+          "contentHash": "ec04cd258cd2f6730068068f1a8e62c06eadb4e28f0637529d2164ef3be19598",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "567",
+          "chunkIndex": 566,
+          "contentHash": "69efe726719d662a6305104b0750b85bed50b5a29704474d5cd224ef7a05a598",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "363",
+          "chunkIndex": 362,
+          "contentHash": "0c4c6ab334b25495ed3f03e169ee94898cbd5e0642b93c86104750992c2b2eac",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "523",
+          "chunkIndex": 522,
+          "contentHash": "c8189cb07d84b491b96d89f70b1b8ba62f9e18275a0a5f05c27664e654c6e041",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "531",
+          "chunkIndex": 530,
+          "contentHash": "9260e23af852ca16469decfbf9e55b5722d43eb8833edbed827e35e932fbbc34",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "150",
+          "chunkIndex": 149,
+          "contentHash": "cc141f06524dc8ed93c511491cd6e47e497e8d910b00fc918cb1e95235bcc5a9",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "runKey": "lease-termination:rrf-20-candidates-50",
+      "evaluationId": "lease-termination",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "611",
+          "chunkIndex": 610,
+          "contentHash": "41d1f3a14fd0fceeeea5857d35d43c012f6d58e5c1c83e2768ebb6a42455da00",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "607",
+          "chunkIndex": 606,
+          "contentHash": "8f2f69bbccdcb647f74cbb0ea66765cab32606119d916d774bd2c485abab4c30",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "608",
+          "chunkIndex": 607,
+          "contentHash": "88802a28ee9c68a8ac7327c2f0e402b204800eea49394ddfb545943413e2f261",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "603",
+          "chunkIndex": 602,
+          "contentHash": "c23ef921d915b7b2c3e3f11da795c36bff227c72a69af6098ad54cadb1c2f243",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "119",
+          "chunkIndex": 118,
+          "contentHash": "1277ba3bbb528d1a35bd5f67b0cd8ce9714c3694736b0ec0be3c1bdd174942d2",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "476",
+          "chunkIndex": 475,
+          "contentHash": "de61e7a57174c13b00b1b491bec601c38317cdcda3c2e6a254cb218b3ba51dc0",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-termination:rrf-20-candidates-75",
+      "evaluationId": "lease-termination",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "611",
+          "chunkIndex": 610,
+          "contentHash": "41d1f3a14fd0fceeeea5857d35d43c012f6d58e5c1c83e2768ebb6a42455da00",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "607",
+          "chunkIndex": 606,
+          "contentHash": "8f2f69bbccdcb647f74cbb0ea66765cab32606119d916d774bd2c485abab4c30",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "608",
+          "chunkIndex": 607,
+          "contentHash": "88802a28ee9c68a8ac7327c2f0e402b204800eea49394ddfb545943413e2f261",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "603",
+          "chunkIndex": 602,
+          "contentHash": "c23ef921d915b7b2c3e3f11da795c36bff227c72a69af6098ad54cadb1c2f243",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "119",
+          "chunkIndex": 118,
+          "contentHash": "1277ba3bbb528d1a35bd5f67b0cd8ce9714c3694736b0ec0be3c1bdd174942d2",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "476",
+          "chunkIndex": 475,
+          "contentHash": "de61e7a57174c13b00b1b491bec601c38317cdcda3c2e6a254cb218b3ba51dc0",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-termination:rrf-40-candidates-50",
+      "evaluationId": "lease-termination",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "611",
+          "chunkIndex": 610,
+          "contentHash": "41d1f3a14fd0fceeeea5857d35d43c012f6d58e5c1c83e2768ebb6a42455da00",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "607",
+          "chunkIndex": 606,
+          "contentHash": "8f2f69bbccdcb647f74cbb0ea66765cab32606119d916d774bd2c485abab4c30",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "608",
+          "chunkIndex": 607,
+          "contentHash": "88802a28ee9c68a8ac7327c2f0e402b204800eea49394ddfb545943413e2f261",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "603",
+          "chunkIndex": 602,
+          "contentHash": "c23ef921d915b7b2c3e3f11da795c36bff227c72a69af6098ad54cadb1c2f243",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "119",
+          "chunkIndex": 118,
+          "contentHash": "1277ba3bbb528d1a35bd5f67b0cd8ce9714c3694736b0ec0be3c1bdd174942d2",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "476",
+          "chunkIndex": 475,
+          "contentHash": "de61e7a57174c13b00b1b491bec601c38317cdcda3c2e6a254cb218b3ba51dc0",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-termination:rrf-40-candidates-75",
+      "evaluationId": "lease-termination",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "611",
+          "chunkIndex": 610,
+          "contentHash": "41d1f3a14fd0fceeeea5857d35d43c012f6d58e5c1c83e2768ebb6a42455da00",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "607",
+          "chunkIndex": 606,
+          "contentHash": "8f2f69bbccdcb647f74cbb0ea66765cab32606119d916d774bd2c485abab4c30",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "608",
+          "chunkIndex": 607,
+          "contentHash": "88802a28ee9c68a8ac7327c2f0e402b204800eea49394ddfb545943413e2f261",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "603",
+          "chunkIndex": 602,
+          "contentHash": "c23ef921d915b7b2c3e3f11da795c36bff227c72a69af6098ad54cadb1c2f243",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "119",
+          "chunkIndex": 118,
+          "contentHash": "1277ba3bbb528d1a35bd5f67b0cd8ce9714c3694736b0ec0be3c1bdd174942d2",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "476",
+          "chunkIndex": 475,
+          "contentHash": "de61e7a57174c13b00b1b491bec601c38317cdcda3c2e6a254cb218b3ba51dc0",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-termination:rrf-60-candidates-50",
+      "evaluationId": "lease-termination",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "611",
+          "chunkIndex": 610,
+          "contentHash": "41d1f3a14fd0fceeeea5857d35d43c012f6d58e5c1c83e2768ebb6a42455da00",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "607",
+          "chunkIndex": 606,
+          "contentHash": "8f2f69bbccdcb647f74cbb0ea66765cab32606119d916d774bd2c485abab4c30",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "608",
+          "chunkIndex": 607,
+          "contentHash": "88802a28ee9c68a8ac7327c2f0e402b204800eea49394ddfb545943413e2f261",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "603",
+          "chunkIndex": 602,
+          "contentHash": "c23ef921d915b7b2c3e3f11da795c36bff227c72a69af6098ad54cadb1c2f243",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "119",
+          "chunkIndex": 118,
+          "contentHash": "1277ba3bbb528d1a35bd5f67b0cd8ce9714c3694736b0ec0be3c1bdd174942d2",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "476",
+          "chunkIndex": 475,
+          "contentHash": "de61e7a57174c13b00b1b491bec601c38317cdcda3c2e6a254cb218b3ba51dc0",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-termination:rrf-60-candidates-75",
+      "evaluationId": "lease-termination",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "611",
+          "chunkIndex": 610,
+          "contentHash": "41d1f3a14fd0fceeeea5857d35d43c012f6d58e5c1c83e2768ebb6a42455da00",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "607",
+          "chunkIndex": 606,
+          "contentHash": "8f2f69bbccdcb647f74cbb0ea66765cab32606119d916d774bd2c485abab4c30",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "608",
+          "chunkIndex": 607,
+          "contentHash": "88802a28ee9c68a8ac7327c2f0e402b204800eea49394ddfb545943413e2f261",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "603",
+          "chunkIndex": 602,
+          "contentHash": "c23ef921d915b7b2c3e3f11da795c36bff227c72a69af6098ad54cadb1c2f243",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "560",
+          "chunkIndex": 559,
+          "contentHash": "ca6752dee8164daec070fd521cf0b7822fffd85cb34893da3eab277d6db83d5f",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0.25
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "119",
+          "chunkIndex": 118,
+          "contentHash": "1277ba3bbb528d1a35bd5f67b0cd8ce9714c3694736b0ec0be3c1bdd174942d2",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "476",
+          "chunkIndex": 475,
+          "contentHash": "de61e7a57174c13b00b1b491bec601c38317cdcda3c2e6a254cb218b3ba51dc0",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-property-damage:rrf-20-candidates-50",
+      "evaluationId": "lease-property-damage",
+      "configurationId": "rrf-20-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "592",
+          "chunkIndex": 591,
+          "contentHash": "c47290bd7ebac97ca22e23adf9b848d1f7e1d629017ae9c116cce30070612542",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "602",
+          "chunkIndex": 601,
+          "contentHash": "aafa2f432163cd08e8114bf027281998e28f0fbd0d530268c9f62988207ae420",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "391",
+          "chunkIndex": 390,
+          "contentHash": "4cbada3f45514fd00d6f4441f29da6314f4c184c2b7782ad4bc915e830eaed69",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "138",
+          "chunkIndex": 137,
+          "contentHash": "17722c39bfdae4102f845940eef8c68b65420d64ac4b3fcabe4ef21c73ede1e3",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "392",
+          "chunkIndex": 391,
+          "contentHash": "f16713bb9a032cce54f93640eceeffe38ceeb0ce28ac28f020230fb7f580b712",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "38",
+          "chunkIndex": 37,
+          "contentHash": "3c3ec1d4a60271b78eb5d1f50862eae3d42c6148c4b5b161baf1cfadb6b471fa",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-property-damage:rrf-20-candidates-75",
+      "evaluationId": "lease-property-damage",
+      "configurationId": "rrf-20-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "592",
+          "chunkIndex": 591,
+          "contentHash": "c47290bd7ebac97ca22e23adf9b848d1f7e1d629017ae9c116cce30070612542",
+          "fusedScore": 0.0476190476190476,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "602",
+          "chunkIndex": 601,
+          "contentHash": "aafa2f432163cd08e8114bf027281998e28f0fbd0d530268c9f62988207ae420",
+          "fusedScore": 0.0454545454545455,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "391",
+          "chunkIndex": 390,
+          "contentHash": "4cbada3f45514fd00d6f4441f29da6314f4c184c2b7782ad4bc915e830eaed69",
+          "fusedScore": 0.0434782608695652,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "138",
+          "chunkIndex": 137,
+          "contentHash": "17722c39bfdae4102f845940eef8c68b65420d64ac4b3fcabe4ef21c73ede1e3",
+          "fusedScore": 0.0416666666666667,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.04,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "392",
+          "chunkIndex": 391,
+          "contentHash": "f16713bb9a032cce54f93640eceeffe38ceeb0ce28ac28f020230fb7f580b712",
+          "fusedScore": 0.0384615384615385,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.037037037037037,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "38",
+          "chunkIndex": 37,
+          "contentHash": "3c3ec1d4a60271b78eb5d1f50862eae3d42c6148c4b5b161baf1cfadb6b471fa",
+          "fusedScore": 0.0357142857142857,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-property-damage:rrf-40-candidates-50",
+      "evaluationId": "lease-property-damage",
+      "configurationId": "rrf-40-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "592",
+          "chunkIndex": 591,
+          "contentHash": "c47290bd7ebac97ca22e23adf9b848d1f7e1d629017ae9c116cce30070612542",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "602",
+          "chunkIndex": 601,
+          "contentHash": "aafa2f432163cd08e8114bf027281998e28f0fbd0d530268c9f62988207ae420",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "391",
+          "chunkIndex": 390,
+          "contentHash": "4cbada3f45514fd00d6f4441f29da6314f4c184c2b7782ad4bc915e830eaed69",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "138",
+          "chunkIndex": 137,
+          "contentHash": "17722c39bfdae4102f845940eef8c68b65420d64ac4b3fcabe4ef21c73ede1e3",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "392",
+          "chunkIndex": 391,
+          "contentHash": "f16713bb9a032cce54f93640eceeffe38ceeb0ce28ac28f020230fb7f580b712",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "38",
+          "chunkIndex": 37,
+          "contentHash": "3c3ec1d4a60271b78eb5d1f50862eae3d42c6148c4b5b161baf1cfadb6b471fa",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-property-damage:rrf-40-candidates-75",
+      "evaluationId": "lease-property-damage",
+      "configurationId": "rrf-40-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "592",
+          "chunkIndex": 591,
+          "contentHash": "c47290bd7ebac97ca22e23adf9b848d1f7e1d629017ae9c116cce30070612542",
+          "fusedScore": 0.024390243902439,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "602",
+          "chunkIndex": 601,
+          "contentHash": "aafa2f432163cd08e8114bf027281998e28f0fbd0d530268c9f62988207ae420",
+          "fusedScore": 0.0238095238095238,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "391",
+          "chunkIndex": 390,
+          "contentHash": "4cbada3f45514fd00d6f4441f29da6314f4c184c2b7782ad4bc915e830eaed69",
+          "fusedScore": 0.0232558139534884,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "138",
+          "chunkIndex": 137,
+          "contentHash": "17722c39bfdae4102f845940eef8c68b65420d64ac4b3fcabe4ef21c73ede1e3",
+          "fusedScore": 0.0227272727272727,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0222222222222222,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "392",
+          "chunkIndex": 391,
+          "contentHash": "f16713bb9a032cce54f93640eceeffe38ceeb0ce28ac28f020230fb7f580b712",
+          "fusedScore": 0.0217391304347826,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0212765957446809,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "38",
+          "chunkIndex": 37,
+          "contentHash": "3c3ec1d4a60271b78eb5d1f50862eae3d42c6148c4b5b161baf1cfadb6b471fa",
+          "fusedScore": 0.0208333333333333,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-property-damage:rrf-60-candidates-50",
+      "evaluationId": "lease-property-damage",
+      "configurationId": "rrf-60-candidates-50",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "592",
+          "chunkIndex": 591,
+          "contentHash": "c47290bd7ebac97ca22e23adf9b848d1f7e1d629017ae9c116cce30070612542",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "602",
+          "chunkIndex": 601,
+          "contentHash": "aafa2f432163cd08e8114bf027281998e28f0fbd0d530268c9f62988207ae420",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "391",
+          "chunkIndex": 390,
+          "contentHash": "4cbada3f45514fd00d6f4441f29da6314f4c184c2b7782ad4bc915e830eaed69",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "138",
+          "chunkIndex": 137,
+          "contentHash": "17722c39bfdae4102f845940eef8c68b65420d64ac4b3fcabe4ef21c73ede1e3",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "392",
+          "chunkIndex": 391,
+          "contentHash": "f16713bb9a032cce54f93640eceeffe38ceeb0ce28ac28f020230fb7f580b712",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "38",
+          "chunkIndex": 37,
+          "contentHash": "3c3ec1d4a60271b78eb5d1f50862eae3d42c6148c4b5b161baf1cfadb6b471fa",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    },
+    {
+      "runKey": "lease-property-damage:rrf-60-candidates-75",
+      "evaluationId": "lease-property-damage",
+      "configurationId": "rrf-60-candidates-75",
+      "results": [
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "592",
+          "chunkIndex": 591,
+          "contentHash": "c47290bd7ebac97ca22e23adf9b848d1f7e1d629017ae9c116cce30070612542",
+          "fusedScore": 0.0163934426229508,
+          "semanticRank": 1,
+          "lexicalRank": null,
+          "resultRank": 1,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "602",
+          "chunkIndex": 601,
+          "contentHash": "aafa2f432163cd08e8114bf027281998e28f0fbd0d530268c9f62988207ae420",
+          "fusedScore": 0.0161290322580645,
+          "semanticRank": 2,
+          "lexicalRank": null,
+          "resultRank": 2,
+          "termOverlap": 0.5
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "391",
+          "chunkIndex": 390,
+          "contentHash": "4cbada3f45514fd00d6f4441f29da6314f4c184c2b7782ad4bc915e830eaed69",
+          "fusedScore": 0.0158730158730159,
+          "semanticRank": 3,
+          "lexicalRank": null,
+          "resultRank": 3,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "138",
+          "chunkIndex": 137,
+          "contentHash": "17722c39bfdae4102f845940eef8c68b65420d64ac4b3fcabe4ef21c73ede1e3",
+          "fusedScore": 0.015625,
+          "semanticRank": 4,
+          "lexicalRank": null,
+          "resultRank": 4,
+          "termOverlap": 0.16666666666666666
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "594",
+          "chunkIndex": 593,
+          "contentHash": "a085e4da2aea2cddf18f6872c8676a244b897af026587c96214e64359dcbcf39",
+          "fusedScore": 0.0153846153846154,
+          "semanticRank": 5,
+          "lexicalRank": null,
+          "resultRank": 5,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "392",
+          "chunkIndex": 391,
+          "contentHash": "f16713bb9a032cce54f93640eceeffe38ceeb0ce28ac28f020230fb7f580b712",
+          "fusedScore": 0.0151515151515152,
+          "semanticRank": 6,
+          "lexicalRank": null,
+          "resultRank": 6,
+          "termOverlap": 0
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "595",
+          "chunkIndex": 594,
+          "contentHash": "2ab80fcf0a96a2e5c5d2d1cc28ca3e02b510d0501786f1754a60c17200f00604",
+          "fusedScore": 0.0149253731343284,
+          "semanticRank": 7,
+          "lexicalRank": null,
+          "resultRank": 7,
+          "termOverlap": 0.3333333333333333
+        },
+        {
+          "lawNumber": "04/L-077",
+          "articleNumber": "38",
+          "chunkIndex": 37,
+          "contentHash": "3c3ec1d4a60271b78eb5d1f50862eae3d42c6148c4b5b161baf1cfadb6b471fa",
+          "fusedScore": 0.0147058823529412,
+          "semanticRank": 8,
+          "lexicalRank": null,
+          "resultRank": 8,
+          "termOverlap": 0
+        }
+      ]
+    }
+  ]
+}

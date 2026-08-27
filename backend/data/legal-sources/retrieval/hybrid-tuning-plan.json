@@ -1,0 +1,27 @@
+{
+  "version": "legal-hybrid-tuning-plan-v1",
+  "strategyRouting": {
+    "employment": "A",
+    "service": "B",
+    "lease": "A"
+  },
+  "rrfK": [20, 40, 60],
+  "candidateCount": [50, 75],
+  "matchCount": 8,
+  "minSemanticSimilarity": 0.45,
+  "rerankers": [
+    { "id": "rpc-order", "termBoost": 0 },
+    { "id": "controlled-term-boost", "termBoost": 0.1 }
+  ],
+  "evaluatedConfigurations": 12,
+  "uniqueQueries": 9,
+  "remoteRuns": 54,
+  "requestBudget": {
+    "maxEmbeddingRequests": 9,
+    "maxRpcCalls": 54,
+    "openAiEmbeddingRequests": 9,
+    "readOnlyHybridRpcCalls": 54,
+    "databaseWrites": 0
+  },
+  "requiresMigration0008": false
+}

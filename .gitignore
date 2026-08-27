@@ -1,0 +1,42 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build and test output
+.next/
+dist/
+build/
+coverage/
+
+# Runtime files
+uploads/
+exports/
+*.log
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Supabase local development
+supabase/.branches/
+supabase/.temp/
+
+# Thesis documents and private/local files
+Dokumentimi Diplomes/
+Kontratat Testuese/
+LexoKontratën AI Prototype/
+Screebshota/
+
+*.pdf
+*.doc
+*.docx
+*.zip
+
+# Old prototype
+LexoKontrat*n AI Prototype/

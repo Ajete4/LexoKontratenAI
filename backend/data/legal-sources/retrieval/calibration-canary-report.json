@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "attempts": 1,
+  "successes": 1,
+  "dimensions": 1536,
+  "diagnosticReason": null,
+  "rpcCalls": 0
+}

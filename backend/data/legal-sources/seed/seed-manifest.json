@@ -1,0 +1,173 @@
+{
+  "sourceCount": 3,
+  "chunkCount": 1166,
+  "sources": [
+    {
+      "lawNumber": "03/L-212",
+      "versionLabel": "gazette-90-2010",
+      "language": "sq",
+      "sourceSha256": "98aaf8e8e06df611f1277a5305928e7d6a28bafe8322ab7fcdfd219a3a981da5",
+      "chunkCount": 100,
+      "warnings": [
+        "Chapter and section headings are preserved separately but are not yet modeled as a complete hierarchy tree."
+      ]
+    },
+    {
+      "lawNumber": "04/L-077",
+      "versionLabel": "gazette-16-2012",
+      "language": "sq",
+      "sourceSha256": "97e2770315ec3a4674ead4184a4bf4f551242fc1e6af703ec161afa786379dc4",
+      "chunkCount": 1059,
+      "warnings": [
+        "The complete multi-level book/part/chapter hierarchy remains represented as provenance blocks rather than a nested hierarchy."
+      ]
+    },
+    {
+      "lawNumber": "08/L-142",
+      "versionLabel": "gazette-18-2024",
+      "language": "sq",
+      "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+      "chunkCount": 7,
+      "warnings": [
+        "Amendment relations remain candidates requiring manual legal verification and are not database relations."
+      ]
+    }
+  ],
+  "batchFiles": [
+    {
+      "file": "chunks/03-L-212-01.sql",
+      "lawNumber": "03/L-212",
+      "rows": 100,
+      "replacesExistingChunks": true,
+      "sha256": "657854af3d64c1130bfbb9d3963718f5849b53dcba9dfadbf5823b64faac562b"
+    },
+    {
+      "file": "chunks/04-L-077-01.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": true,
+      "sha256": "51502def9539a8f0741da7114c07061ac40bf90bb7734a0d8535e77d32f90424"
+    },
+    {
+      "file": "chunks/04-L-077-02.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": false,
+      "sha256": "6796452bc33b004c6d2458adc59dbab343e831dbdb0833fe2e5d9132540baf5a"
+    },
+    {
+      "file": "chunks/04-L-077-03.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": false,
+      "sha256": "0e677ea33bb6fee9f3e5ed35e15905ac28b2d535fb2e3f8bfbe7d293fb5dfdab"
+    },
+    {
+      "file": "chunks/04-L-077-04.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": false,
+      "sha256": "df6fe4641562d7faae3b4fc67a061b6f3678cda633f7a2420efbf20d4e824898"
+    },
+    {
+      "file": "chunks/04-L-077-05.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": false,
+      "sha256": "6ebf9777e41091c76ef7904e99be7ef3b795b77f578948e8426302ca285de67f"
+    },
+    {
+      "file": "chunks/04-L-077-06.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": false,
+      "sha256": "9de6a910de7e84a1350cc8669d392dbead93e9ef7bf2dd1b49eab2dd338aa3f0"
+    },
+    {
+      "file": "chunks/04-L-077-07.sql",
+      "lawNumber": "04/L-077",
+      "rows": 150,
+      "replacesExistingChunks": false,
+      "sha256": "0e72e45bb26f669f87d220e3581c5b9c98c00ce15310d4a1a1a6ddcf77681199"
+    },
+    {
+      "file": "chunks/04-L-077-08.sql",
+      "lawNumber": "04/L-077",
+      "rows": 9,
+      "replacesExistingChunks": false,
+      "sha256": "a49ee02ae5ea6602b239e6f296db7776289383cb284f77639b6ebdea9145dc01"
+    },
+    {
+      "file": "chunks/08-L-142-01.sql",
+      "lawNumber": "08/L-142",
+      "rows": 7,
+      "replacesExistingChunks": true,
+      "sha256": "fa0b6109271fde9de4ff59c5965de751c9b5dbba18cc809f397273755526656e"
+    }
+  ],
+  "sqlFiles": [
+    {
+      "file": "00-preflight.sql",
+      "sha256": "88bb5e24dda6ac17b654c000f868c50c82bbc12713b48688628b139d2de56f7a"
+    },
+    {
+      "file": "01-legal-sources.sql",
+      "sha256": "dff6ce3497f170310cd82d5559091aeaa048bb6db1f625c0a654c5714c0a0799"
+    },
+    {
+      "file": "chunks/03-L-212-01.sql",
+      "sha256": "657854af3d64c1130bfbb9d3963718f5849b53dcba9dfadbf5823b64faac562b"
+    },
+    {
+      "file": "chunks/04-L-077-01.sql",
+      "sha256": "51502def9539a8f0741da7114c07061ac40bf90bb7734a0d8535e77d32f90424"
+    },
+    {
+      "file": "chunks/04-L-077-02.sql",
+      "sha256": "6796452bc33b004c6d2458adc59dbab343e831dbdb0833fe2e5d9132540baf5a"
+    },
+    {
+      "file": "chunks/04-L-077-03.sql",
+      "sha256": "0e677ea33bb6fee9f3e5ed35e15905ac28b2d535fb2e3f8bfbe7d293fb5dfdab"
+    },
+    {
+      "file": "chunks/04-L-077-04.sql",
+      "sha256": "df6fe4641562d7faae3b4fc67a061b6f3678cda633f7a2420efbf20d4e824898"
+    },
+    {
+      "file": "chunks/04-L-077-05.sql",
+      "sha256": "6ebf9777e41091c76ef7904e99be7ef3b795b77f578948e8426302ca285de67f"
+    },
+    {
+      "file": "chunks/04-L-077-06.sql",
+      "sha256": "9de6a910de7e84a1350cc8669d392dbead93e9ef7bf2dd1b49eab2dd338aa3f0"
+    },
+    {
+      "file": "chunks/04-L-077-07.sql",
+      "sha256": "0e72e45bb26f669f87d220e3581c5b9c98c00ce15310d4a1a1a6ddcf77681199"
+    },
+    {
+      "file": "chunks/04-L-077-08.sql",
+      "sha256": "a49ee02ae5ea6602b239e6f296db7776289383cb284f77639b6ebdea9145dc01"
+    },
+    {
+      "file": "chunks/08-L-142-01.sql",
+      "sha256": "fa0b6109271fde9de4ff59c5965de751c9b5dbba18cc809f397273755526656e"
+    },
+    {
+      "file": "90-postflight.sql",
+      "sha256": "62916403f2e89bc93f936ec56437444ae156d88041876f1b0588cfb23cad4c0a"
+    }
+  ],
+  "expectedPostflightCounts": {
+    "sources": 3,
+    "chunks": 1166,
+    "byLawNumber": {
+      "03/L-212": 100,
+      "04/L-077": 1059,
+      "08/L-142": 7
+    },
+    "relations": 0
+  },
+  "seedExecutionDecision": "requires_explicit_G1E_3B_approval"
+}

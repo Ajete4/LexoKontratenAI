@@ -1,0 +1,1664 @@
+{
+  "lawNumber": "04/L-077",
+  "sourceSha256": "97e2770315ec3a4674ead4184a4bf4f551242fc1e6af703ec161afa786379dc4",
+  "versionLabel": "gazette-16-2012",
+  "integrityGate": {
+    "sha256Matches": true,
+    "pageCountMatches": true,
+    "lawNumberMatches": true,
+    "versionLabelMatches": true
+  },
+  "reviewedArticleNumbers": [
+    "1",
+    "4",
+    "20",
+    "28",
+    "35",
+    "50",
+    "75",
+    "85",
+    "100",
+    "125",
+    "154",
+    "160",
+    "170",
+    "185",
+    "239",
+    "245",
+    "262",
+    "275",
+    "300",
+    "307",
+    "325",
+    "346",
+    "360",
+    "385",
+    "415",
+    "450",
+    "500",
+    "585",
+    "600",
+    "615",
+    "630",
+    "650",
+    "850",
+    "1000",
+    "1059"
+  ],
+  "reviewedPageTransitions": [
+    {
+      "fromPage": 1,
+      "toPage": 2,
+      "continuingArticleNumbers": [
+        "4"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 2,
+      "toPage": 3,
+      "continuingArticleNumbers": [
+        "11"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 3,
+      "toPage": 4,
+      "continuingArticleNumbers": [
+        "16"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 4,
+      "toPage": 5,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 5,
+      "toPage": 6,
+      "continuingArticleNumbers": [
+        "26"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 6,
+      "toPage": 7,
+      "continuingArticleNumbers": [
+        "30"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 7,
+      "toPage": 8,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 8,
+      "toPage": 9,
+      "continuingArticleNumbers": [
+        "40"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 9,
+      "toPage": 10,
+      "continuingArticleNumbers": [
+        "45"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 10,
+      "toPage": 11,
+      "continuingArticleNumbers": [
+        "50"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 11,
+      "toPage": 12,
+      "continuingArticleNumbers": [
+        "55"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 12,
+      "toPage": 13,
+      "continuingArticleNumbers": [
+        "59"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 13,
+      "toPage": 14,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 14,
+      "toPage": 15,
+      "continuingArticleNumbers": [
+        "68"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 15,
+      "toPage": 16,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 16,
+      "toPage": 17,
+      "continuingArticleNumbers": [
+        "75"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 17,
+      "toPage": 18,
+      "continuingArticleNumbers": [
+        "79"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 18,
+      "toPage": 19,
+      "continuingArticleNumbers": [
+        "84"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 19,
+      "toPage": 20,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 20,
+      "toPage": 21,
+      "continuingArticleNumbers": [
+        "93"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 21,
+      "toPage": 22,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 22,
+      "toPage": 23,
+      "continuingArticleNumbers": [
+        "104"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 23,
+      "toPage": 24,
+      "continuingArticleNumbers": [
+        "108"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 24,
+      "toPage": 25,
+      "continuingArticleNumbers": [
+        "114"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 25,
+      "toPage": 26,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 26,
+      "toPage": 27,
+      "continuingArticleNumbers": [
+        "122"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 27,
+      "toPage": 28,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 28,
+      "toPage": 29,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 29,
+      "toPage": 30,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 30,
+      "toPage": 31,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 31,
+      "toPage": 32,
+      "continuingArticleNumbers": [
+        "143"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 32,
+      "toPage": 33,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 33,
+      "toPage": 34,
+      "continuingArticleNumbers": [
+        "152"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 34,
+      "toPage": 35,
+      "continuingArticleNumbers": [
+        "157"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 35,
+      "toPage": 36,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 36,
+      "toPage": 37,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 37,
+      "toPage": 38,
+      "continuingArticleNumbers": [
+        "172"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 38,
+      "toPage": 39,
+      "continuingArticleNumbers": [
+        "176"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 39,
+      "toPage": 40,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 40,
+      "toPage": 41,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 41,
+      "toPage": 42,
+      "continuingArticleNumbers": [
+        "192"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 42,
+      "toPage": 43,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 43,
+      "toPage": 44,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 44,
+      "toPage": 45,
+      "continuingArticleNumbers": [
+        "208"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 45,
+      "toPage": 46,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 46,
+      "toPage": 47,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 47,
+      "toPage": 48,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 48,
+      "toPage": 49,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 49,
+      "toPage": 50,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 50,
+      "toPage": 51,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 51,
+      "toPage": 52,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 52,
+      "toPage": 53,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 53,
+      "toPage": 54,
+      "continuingArticleNumbers": [
+        "248"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 54,
+      "toPage": 55,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 55,
+      "toPage": 56,
+      "continuingArticleNumbers": [
+        "257"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 56,
+      "toPage": 57,
+      "continuingArticleNumbers": [
+        "262"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 57,
+      "toPage": 58,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 58,
+      "toPage": 59,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 59,
+      "toPage": 60,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 60,
+      "toPage": 61,
+      "continuingArticleNumbers": [
+        "278"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 61,
+      "toPage": 62,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 62,
+      "toPage": 63,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 63,
+      "toPage": 64,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 64,
+      "toPage": 65,
+      "continuingArticleNumbers": [
+        "300"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 65,
+      "toPage": 66,
+      "continuingArticleNumbers": [
+        "304"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 66,
+      "toPage": 67,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 67,
+      "toPage": 68,
+      "continuingArticleNumbers": [
+        "312"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 68,
+      "toPage": 69,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 69,
+      "toPage": 70,
+      "continuingArticleNumbers": [
+        "321"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 70,
+      "toPage": 71,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 71,
+      "toPage": 72,
+      "continuingArticleNumbers": [
+        "331"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 72,
+      "toPage": 73,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 73,
+      "toPage": 74,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 74,
+      "toPage": 75,
+      "continuingArticleNumbers": [
+        "347"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 75,
+      "toPage": 76,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 76,
+      "toPage": 77,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 77,
+      "toPage": 78,
+      "continuingArticleNumbers": [
+        "362"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 78,
+      "toPage": 79,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 79,
+      "toPage": 80,
+      "continuingArticleNumbers": [
+        "370"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 80,
+      "toPage": 81,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 81,
+      "toPage": 82,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 82,
+      "toPage": 83,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 83,
+      "toPage": 84,
+      "continuingArticleNumbers": [
+        "388"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 84,
+      "toPage": 85,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 85,
+      "toPage": 86,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 86,
+      "toPage": 87,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 87,
+      "toPage": 88,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 88,
+      "toPage": 89,
+      "continuingArticleNumbers": [
+        "417"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 89,
+      "toPage": 90,
+      "continuingArticleNumbers": [
+        "420"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 90,
+      "toPage": 91,
+      "continuingArticleNumbers": [
+        "425"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 91,
+      "toPage": 92,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 92,
+      "toPage": 93,
+      "continuingArticleNumbers": [
+        "432"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 93,
+      "toPage": 94,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 94,
+      "toPage": 95,
+      "continuingArticleNumbers": [
+        "440"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 95,
+      "toPage": 96,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 96,
+      "toPage": 97,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 97,
+      "toPage": 98,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 98,
+      "toPage": 99,
+      "continuingArticleNumbers": [
+        "460"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 99,
+      "toPage": 100,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 100,
+      "toPage": 101,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 101,
+      "toPage": 102,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 102,
+      "toPage": 103,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 103,
+      "toPage": 104,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 104,
+      "toPage": 105,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 105,
+      "toPage": 106,
+      "continuingArticleNumbers": [
+        "495"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 106,
+      "toPage": 107,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 107,
+      "toPage": 108,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 108,
+      "toPage": 109,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 109,
+      "toPage": 110,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 110,
+      "toPage": 111,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 111,
+      "toPage": 112,
+      "continuingArticleNumbers": [
+        "523"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 112,
+      "toPage": 113,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 113,
+      "toPage": 114,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 114,
+      "toPage": 115,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 115,
+      "toPage": 116,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 116,
+      "toPage": 117,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 117,
+      "toPage": 118,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 118,
+      "toPage": 119,
+      "continuingArticleNumbers": [
+        "558"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 119,
+      "toPage": 120,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 120,
+      "toPage": 121,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 121,
+      "toPage": 122,
+      "continuingArticleNumbers": [
+        "571"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 122,
+      "toPage": 123,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 123,
+      "toPage": 124,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 124,
+      "toPage": 125,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 125,
+      "toPage": 126,
+      "continuingArticleNumbers": [
+        "591"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 126,
+      "toPage": 127,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 127,
+      "toPage": 128,
+      "continuingArticleNumbers": [
+        "600"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 128,
+      "toPage": 129,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 129,
+      "toPage": 130,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 130,
+      "toPage": 131,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 131,
+      "toPage": 132,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 132,
+      "toPage": 133,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 133,
+      "toPage": 134,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 134,
+      "toPage": 135,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 135,
+      "toPage": 136,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 136,
+      "toPage": 137,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 137,
+      "toPage": 138,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 138,
+      "toPage": 139,
+      "continuingArticleNumbers": [
+        "651"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 139,
+      "toPage": 140,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 140,
+      "toPage": 141,
+      "continuingArticleNumbers": [
+        "658"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 141,
+      "toPage": 142,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 142,
+      "toPage": 143,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 143,
+      "toPage": 144,
+      "continuingArticleNumbers": [
+        "669"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 144,
+      "toPage": 145,
+      "continuingArticleNumbers": [
+        "674"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 145,
+      "toPage": 146,
+      "continuingArticleNumbers": [
+        "678"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 146,
+      "toPage": 147,
+      "continuingArticleNumbers": [
+        "683"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 147,
+      "toPage": 148,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 148,
+      "toPage": 149,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 149,
+      "toPage": 150,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 150,
+      "toPage": 151,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 151,
+      "toPage": 152,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 152,
+      "toPage": 153,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 153,
+      "toPage": 154,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 154,
+      "toPage": 155,
+      "continuingArticleNumbers": [
+        "726"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 155,
+      "toPage": 156,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 156,
+      "toPage": 157,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 157,
+      "toPage": 158,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 158,
+      "toPage": 159,
+      "continuingArticleNumbers": [
+        "745"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 159,
+      "toPage": 160,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 160,
+      "toPage": 161,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 161,
+      "toPage": 162,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 162,
+      "toPage": 163,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 163,
+      "toPage": 164,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 164,
+      "toPage": 165,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 165,
+      "toPage": 166,
+      "continuingArticleNumbers": [
+        "781"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 166,
+      "toPage": 167,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 167,
+      "toPage": 168,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 168,
+      "toPage": 169,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 169,
+      "toPage": 170,
+      "continuingArticleNumbers": [
+        "800"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 170,
+      "toPage": 171,
+      "continuingArticleNumbers": [
+        "804"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 171,
+      "toPage": 172,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 172,
+      "toPage": 173,
+      "continuingArticleNumbers": [
+        "816"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 173,
+      "toPage": 174,
+      "continuingArticleNumbers": [
+        "820"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 174,
+      "toPage": 175,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 175,
+      "toPage": 176,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 176,
+      "toPage": 177,
+      "continuingArticleNumbers": [
+        "830"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 177,
+      "toPage": 178,
+      "continuingArticleNumbers": [
+        "832"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 178,
+      "toPage": 179,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 179,
+      "toPage": 180,
+      "continuingArticleNumbers": [
+        "841"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 180,
+      "toPage": 181,
+      "continuingArticleNumbers": [
+        "845"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 181,
+      "toPage": 182,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 182,
+      "toPage": 183,
+      "continuingArticleNumbers": [
+        "855"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 183,
+      "toPage": 184,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 184,
+      "toPage": 185,
+      "continuingArticleNumbers": [
+        "866"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 185,
+      "toPage": 186,
+      "continuingArticleNumbers": [
+        "870"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 186,
+      "toPage": 187,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 187,
+      "toPage": 188,
+      "continuingArticleNumbers": [
+        "881"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 188,
+      "toPage": 189,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 189,
+      "toPage": 190,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 190,
+      "toPage": 191,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 191,
+      "toPage": 192,
+      "continuingArticleNumbers": [
+        "899"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 192,
+      "toPage": 193,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 193,
+      "toPage": 194,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 194,
+      "toPage": 195,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 195,
+      "toPage": 196,
+      "continuingArticleNumbers": [
+        "916"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 196,
+      "toPage": 197,
+      "continuingArticleNumbers": [
+        "919"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 197,
+      "toPage": 198,
+      "continuingArticleNumbers": [
+        "923"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 198,
+      "toPage": 199,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 199,
+      "toPage": 200,
+      "continuingArticleNumbers": [
+        "930"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 200,
+      "toPage": 201,
+      "continuingArticleNumbers": [
+        "934"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 201,
+      "toPage": 202,
+      "continuingArticleNumbers": [
+        "936"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 202,
+      "toPage": 203,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 203,
+      "toPage": 204,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 204,
+      "toPage": 205,
+      "continuingArticleNumbers": [
+        "947"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 205,
+      "toPage": 206,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 206,
+      "toPage": 207,
+      "continuingArticleNumbers": [
+        "955"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 207,
+      "toPage": 208,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 208,
+      "toPage": 209,
+      "continuingArticleNumbers": [
+        "960"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 209,
+      "toPage": 210,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 210,
+      "toPage": 211,
+      "continuingArticleNumbers": [
+        "966"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 211,
+      "toPage": 212,
+      "continuingArticleNumbers": [
+        "970"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 212,
+      "toPage": 213,
+      "continuingArticleNumbers": [
+        "975"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 213,
+      "toPage": 214,
+      "continuingArticleNumbers": [
+        "979"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 214,
+      "toPage": 215,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 215,
+      "toPage": 216,
+      "continuingArticleNumbers": [
+        "988"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 216,
+      "toPage": 217,
+      "continuingArticleNumbers": [
+        "991"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 217,
+      "toPage": 218,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 218,
+      "toPage": 219,
+      "continuingArticleNumbers": [
+        "998"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 219,
+      "toPage": 220,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 220,
+      "toPage": 221,
+      "continuingArticleNumbers": [
+        "1006"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 221,
+      "toPage": 222,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 222,
+      "toPage": 223,
+      "continuingArticleNumbers": [
+        "1014"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 223,
+      "toPage": 224,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 224,
+      "toPage": 225,
+      "continuingArticleNumbers": [
+        "1024"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 225,
+      "toPage": 226,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 226,
+      "toPage": 227,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 227,
+      "toPage": 228,
+      "continuingArticleNumbers": [
+        "1037"
+      ],
+      "result": "verified"
+    },
+    {
+      "fromPage": 228,
+      "toPage": 229,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 229,
+      "toPage": 230,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 230,
+      "toPage": 231,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    },
+    {
+      "fromPage": 231,
+      "toPage": 232,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    }
+  ],
+  "checkedArticleCount": 35,
+  "checkedParagraphCount": 81,
+  "titleIssues": [],
+  "paragraphIssues": [],
+  "orderingIssues": [],
+  "duplicateIssues": [],
+  "unassignedBlockClassification": [
+    {
+      "kind": "preamble",
+      "count": 1,
+      "classification": "document_preamble_or_metadata",
+      "containsUnassignedSubstantiveArticleText": false
+    },
+    {
+      "kind": "structural_heading",
+      "count": 565,
+      "classification": "legal_structural_heading",
+      "containsUnassignedSubstantiveArticleText": false
+    }
+  ],
+  "unicodeIssues": [],
+  "correctionsApplied": [
+    {
+      "code": "STRUCTURAL_HEADING_IN_ARTICLE_BODY",
+      "provenExample": "Book, part, chapter and Roman-numbered section headings were attached to the preceding article body.",
+      "resolution": "Structural headings are preserved outside article body with page provenance."
+    },
+    {
+      "code": "MULTILINE_ARTICLE_TITLE",
+      "provenExample": "Long article headings spanning multiple visual lines were truncated after their first line.",
+      "resolution": "Consecutive heading-font lines are joined as one article title."
+    },
+    {
+      "code": "SPACED_PARAGRAPH_NUMBERING",
+      "provenExample": "PDF spacing variants around paragraph dots could merge a numbered paragraph with its predecessor.",
+      "resolution": "Paragraph markers with deterministic spacing variants are recognized and canonically numbered."
+    }
+  ],
+  "remainingWarnings": [
+    "The complete multi-level book/part/chapter hierarchy remains represented as provenance blocks rather than a nested hierarchy."
+  ],
+  "reviewOutcome": "approved_with_warnings"
+}

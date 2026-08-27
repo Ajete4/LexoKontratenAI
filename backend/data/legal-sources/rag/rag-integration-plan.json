@@ -1,0 +1,42 @@
+{
+  "pipelineVersion": "contract-analysis-rag-v1",
+  "activationStatus": "local_design_only",
+  "frozenRetrievalConfiguration": {
+    "routing": {
+      "employment": "A",
+      "service": "B",
+      "lease": "A"
+    },
+    "rrfK": 40,
+    "candidateCount": 50,
+    "matchCount": 8,
+    "minSemanticSimilarity": 0.45,
+    "reranker": "controlled-term-boost"
+  },
+  "citationContractVersion": "legal-citation-v1",
+  "contextLimits": {
+    "maximumSources": 5,
+    "maximumContextCharacters": 12000,
+    "maximumQueryCharacters": 2000
+  },
+  "errorAndFallbackPolicy": {
+    "invalidInput": "safe_error",
+    "retrievalUnavailable": "safe_error_without_evidence",
+    "zeroResults": "insufficient_evidence",
+    "invalidModelOutput": "controlled_failure",
+    "unknownCitationId": "controlled_failure",
+    "outOfScopeLaw": "controlled_failure",
+    "semanticOnlyFallback": "disabled"
+  },
+  "proposedProductionIntegrationPoint": "after adapter.analyzeContract returns validated clauses and before rpcPayload/complete_contract_analysis",
+  "proposedProductionFlow": "validated clause -> deterministic query -> hybrid retrieval -> controlled reranking -> bounded context -> grounded model validation -> citation resolution -> atomic persistence",
+  "futureFilesRequiringChange": [
+    "src/services/contract-analysis.service.ts",
+    "src/ai/contract-analysis.adapter.ts or a dedicated grounded adapter",
+    "src/ai/contract-analysis.schema.ts",
+    "supabase migration for clause_citations and atomic persistence",
+    "analysis retrieval response mapping and frontend validators"
+  ],
+  "requiresFutureMigrationForCitationPersistence": true,
+  "productionResponseContractChanged": false
+}

@@ -1,0 +1,23 @@
+{
+  "phase": "G1H.2B",
+  "status": "implemented_locally_not_executed",
+  "pipelineVersion": "analysis-rag-v1",
+  "legacyPipelineVersion": "analysis-v1",
+  "defaultConcurrency": 2,
+  "maximumClauses": 30,
+  "maximumSourcesPerClause": 5,
+  "maximumContextCharactersPerClause": 12000,
+  "maximumQueryCharacters": 2000,
+  "maximumTheoreticalRequests": {
+    "initialAnalysisModelCalls": 1,
+    "queryEmbeddingCalls": 30,
+    "hybridRetrievalRpcCalls": 30,
+    "groundedModelCalls": 30,
+    "atomicCompletionRpcCalls": 1,
+    "totalExternalCalls": 92
+  },
+  "groundedModelCallsMayBeLowerWhenEvidenceIsInsufficient": true,
+  "ragEmbeddingAndGroundedRetries": 0,
+  "databaseWrites": "one atomic completion RPC after all clauses succeed",
+  "productionCanaryExecuted": false
+}

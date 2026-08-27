@@ -1,0 +1,16 @@
+{
+  "lawNumber": "04/L-077",
+  "pageCount": 232,
+  "articleCount": 1059,
+  "paragraphCount": 2338,
+  "unassignedBlockCount": 566,
+  "firstArticlePage": 1,
+  "lastArticlePage": 232,
+  "duplicateArticleHeadings": [],
+  "unusualArticleNumbers": [],
+  "pagesWithoutText": [],
+  "replacementCharacterCount": 0,
+  "assignedTextPercentage": 100,
+  "structureStatus": "parsed",
+  "warnings": []
+}

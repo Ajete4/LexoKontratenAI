@@ -1,0 +1,76 @@
+{
+  "lawNumber": "08/L-142",
+  "sourceSha256": "1a26b445bbb82831c7dcb5e0dbc54b4a96aa0be1d28e32269f7e2dee8492c74b",
+  "versionLabel": "gazette-18-2024",
+  "integrityGate": {
+    "sha256Matches": true,
+    "pageCountMatches": true,
+    "lawNumberMatches": true,
+    "versionLabelMatches": true
+  },
+  "reviewedArticleNumbers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "reviewedPageTransitions": [
+    {
+      "fromPage": 1,
+      "toPage": 2,
+      "continuingArticleNumbers": [],
+      "result": "verified"
+    }
+  ],
+  "checkedArticleCount": 7,
+  "checkedParagraphCount": 15,
+  "titleIssues": [],
+  "paragraphIssues": [],
+  "orderingIssues": [],
+  "duplicateIssues": [],
+  "unassignedBlockClassification": [
+    {
+      "kind": "preamble",
+      "count": 1,
+      "classification": "document_preamble_or_metadata",
+      "containsUnassignedSubstantiveArticleText": false
+    },
+    {
+      "kind": "repeated_header_footer",
+      "count": 8,
+      "classification": "repeated_header_or_footer",
+      "containsUnassignedSubstantiveArticleText": false
+    },
+    {
+      "kind": "structural_heading",
+      "count": 7,
+      "classification": "legal_structural_heading",
+      "containsUnassignedSubstantiveArticleText": false
+    }
+  ],
+  "unicodeIssues": [],
+  "correctionsApplied": [
+    {
+      "code": "MULTILINE_ARTICLE_TITLE",
+      "provenExample": "Titles of Articles 2 and 4 continued on a second PDF line that was previously treated as body text.",
+      "resolution": "Both title lines are joined using the shared heading font."
+    },
+    {
+      "code": "REPEATED_PAGE_HEADER",
+      "provenExample": "The four-line official-gazette header repeated on page 2 and was previously included in Article 3.",
+      "resolution": "Lines repeated on both pages are preserved as repeated_header_footer blocks."
+    },
+    {
+      "code": "NESTED_SUBPARAGRAPH_NUMBERING",
+      "provenExample": "Article 5 replacement text uses subparagraph 1.1 without a terminal dot.",
+      "resolution": "Nested numbering is recognized without changing the source text."
+    }
+  ],
+  "remainingWarnings": [
+    "Amendment relations remain candidates requiring manual legal verification and are not database relations."
+  ],
+  "reviewOutcome": "approved_with_warnings"
+}

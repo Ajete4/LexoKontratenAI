@@ -1,0 +1,52 @@
+{
+  "version": "legal-hybrid-service-tuning-diagnosis-v1",
+  "scope": "service-only",
+  "lawNumber": "04/L-077",
+  "baselineObservation": {
+    "serviceHitsAt5": 1,
+    "serviceCases": 3,
+    "lexicalCandidatesInObservedTop5": 0
+  },
+  "causes": [
+    {
+      "id": "LEXICAL_SURFACE_FORM_MISMATCH",
+      "confidence": "high",
+      "explanation": "pg_catalog.simple does not perform Albanian stemming; the evaluated query forms did not produce lexical-ranked top-five results."
+    },
+    {
+      "id": "SEMANTIC_TOPIC_AMBIGUITY",
+      "confidence": "high",
+      "explanation": "General service wording retrieved semantically similar but legally unrelated provisions before the verified non-performance and termination clusters."
+    },
+    {
+      "id": "BROAD_QUERY_DILUTION",
+      "confidence": "medium",
+      "explanation": "The broad contract-type/topic formulation diluted the strongest verified legal terms for two service cases."
+    }
+  ],
+  "cases": [
+    {
+      "evaluationId": "service-nonperformance-liability",
+      "baselineRelevantRank": null,
+      "bestObservedRelevantRank": 5,
+      "verifiedRelevantArticles": ["106-111", "114", "245-252"],
+      "diagnosis": "The lexical channel was absent in the observed top five; verified non-performance and debtor-liability terminology needs exact surface forms."
+    },
+    {
+      "evaluationId": "service-termination",
+      "baselineRelevantRank": null,
+      "bestObservedRelevantRank": 5,
+      "verifiedRelevantArticles": ["106-111", "114-115", "623-624", "634", "644"],
+      "diagnosis": "The natural-language term for interruption did not align consistently with the verified legal heading term for contract dissolution."
+    },
+    {
+      "evaluationId": "service-damages",
+      "baselineRelevantRank": 1,
+      "bestObservedRelevantRank": 1,
+      "verifiedRelevantArticles": ["169-176", "245-252"],
+      "diagnosis": "Controlled compensation terminology already retrieves verified provisions; this case is retained as a regression control."
+    }
+  ],
+  "requiresManualLegalReview": false,
+  "databaseWrites": 0
+}

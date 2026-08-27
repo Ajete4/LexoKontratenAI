@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "lawNumber": "03/L-212",
+      "articleCount": 100,
+      "chunkCount": 100,
+      "sampledArticleCount": 21,
+      "sampledChunkCount": 21,
+      "warningCount": 1,
+      "blockingIssueCount": 0,
+      "outcome": "approved_for_seed_with_warnings"
+    },
+    {
+      "lawNumber": "04/L-077",
+      "articleCount": 1059,
+      "chunkCount": 1059,
+      "sampledArticleCount": 40,
+      "sampledChunkCount": 40,
+      "warningCount": 1,
+      "blockingIssueCount": 0,
+      "outcome": "approved_for_seed_with_warnings"
+    },
+    {
+      "lawNumber": "08/L-142",
+      "articleCount": 7,
+      "chunkCount": 7,
+      "sampledArticleCount": 7,
+      "sampledChunkCount": 7,
+      "warningCount": 1,
+      "blockingIssueCount": 0,
+      "outcome": "approved_for_seed_with_warnings"
+    }
+  ],
+  "approvedSourceCount": 3,
+  "blockedSourceCount": 0,
+  "seedPreparationDecision": "eligible_after_explicit_approval"
+}

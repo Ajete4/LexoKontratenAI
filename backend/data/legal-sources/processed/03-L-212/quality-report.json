@@ -1,0 +1,16 @@
+{
+  "lawNumber": "03/L-212",
+  "pageCount": 29,
+  "articleCount": 100,
+  "paragraphCount": 441,
+  "unassignedBlockCount": 28,
+  "firstArticlePage": 1,
+  "lastArticlePage": 29,
+  "duplicateArticleHeadings": [],
+  "unusualArticleNumbers": [],
+  "pagesWithoutText": [],
+  "replacementCharacterCount": 0,
+  "assignedTextPercentage": 100,
+  "structureStatus": "parsed",
+  "warnings": []
+}

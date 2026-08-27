@@ -1,0 +1,23 @@
+{
+  "phase": "G1H.2A",
+  "activationStatus": "local_schema_only",
+  "table": "public.clause_citations",
+  "pipelineVersionPlanned": "analysis-v2-rag",
+  "existingPipelineChanged": false,
+  "existingCompletionRpcChanged": false,
+  "atomicCompletionRpc": "complete_contract_analysis_with_citations",
+  "retrievalMethod": "hybrid_rrf_v1",
+  "limits": {
+    "citationsPerClause": 5,
+    "clausesPerAnalysis": 30
+  },
+  "futurePhaseG1H2B": [
+    "activate a new backend-owned pipeline version",
+    "run bounded hybrid retrieval after initial clause analysis",
+    "validate opaque citation IDs against backend retrieval context",
+    "persist clauses and citations through the versioned atomic RPC",
+    "add validated citation evidence to read-back responses",
+    "render citations in the frontend without direct table access"
+  ],
+  "databaseWritesPerformed": 0
+}

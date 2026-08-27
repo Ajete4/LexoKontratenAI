@@ -1,0 +1,165 @@
+{
+  "mode": "dry-run",
+  "goldSetVersion": "legal-retrieval-gold-v1",
+  "strategies": [
+    "A",
+    "B",
+    "C"
+  ],
+  "thresholds": [
+    0.45,
+    0.5,
+    0.55
+  ],
+  "matchCount": 8,
+  "executionOptimization": "one retrieval at 0.45 per case and strategy; higher thresholds derived locally",
+  "requestBudget": {
+    "openAiEmbeddingRequests": 27,
+    "readOnlyRpcCalls": 27,
+    "evaluatedGridConfigurations": 9
+  },
+  "passCriteria": {
+    "scopeViolations": 0,
+    "minimumHitAt5": 0.75,
+    "minimumHitsPerContractType": 2,
+    "minimumRelevantAtRank1": 5,
+    "maximumNoResultRate": 0.1111111111111111
+  },
+  "queryFingerprints": [
+    {
+      "evaluationId": "employment-notice-period",
+      "strategy": "A",
+      "sha256": "1592738cd2cbb267425524b52cf2b06a191cc5c9cffe4c850829fafadd9b034c"
+    },
+    {
+      "evaluationId": "employment-notice-period",
+      "strategy": "B",
+      "sha256": "1d528dd13723d9a340b8ee5d60e8ccf1512e7fb5f4e97d0a8b9efddfdde5aa90"
+    },
+    {
+      "evaluationId": "employment-notice-period",
+      "strategy": "C",
+      "sha256": "0fa59d0fa0a60eb2a8157585504ea2cdd3bfacaa00e8fa1e41c8b18a280cbecf"
+    },
+    {
+      "evaluationId": "employment-overtime-pay",
+      "strategy": "A",
+      "sha256": "f508d47bce48168975acbcf16ed40af50748dbbac34edd91bc547e122cc4920b"
+    },
+    {
+      "evaluationId": "employment-overtime-pay",
+      "strategy": "B",
+      "sha256": "1dee90467735dcc1b46028409c72df530aca9c4ea7bde1ae1ffb667ceaa04df2"
+    },
+    {
+      "evaluationId": "employment-overtime-pay",
+      "strategy": "C",
+      "sha256": "09eea534626fa4cff98b12eb35081c157d2861c38336526d485fe9e7f7a6eafd"
+    },
+    {
+      "evaluationId": "employment-probation",
+      "strategy": "A",
+      "sha256": "5741960d4f62511cb018aa12b10656d43892d5847d841aa750d75f7af2d14f37"
+    },
+    {
+      "evaluationId": "employment-probation",
+      "strategy": "B",
+      "sha256": "c2bc73b589d2f8215d0f4e42e9c6e5ff55059f6bcb836d209610514ba4c61235"
+    },
+    {
+      "evaluationId": "employment-probation",
+      "strategy": "C",
+      "sha256": "0bed05bcc08e176c7ff4eb4d8fda22849b5edae422acb3811d3adf41c2641856"
+    },
+    {
+      "evaluationId": "service-nonperformance-liability",
+      "strategy": "A",
+      "sha256": "0c9072a38292141cd3af7ca588f70e86dd7dec583120c19809d6335bbdf90de0"
+    },
+    {
+      "evaluationId": "service-nonperformance-liability",
+      "strategy": "B",
+      "sha256": "d5d970b0e474f743f0d29f1838f8b29f097b7f087623f97a162f8f439ce6ac77"
+    },
+    {
+      "evaluationId": "service-nonperformance-liability",
+      "strategy": "C",
+      "sha256": "37f105f3124886fa727d6f03d3b40fbb538402393f23b140798b12bbc8909c8c"
+    },
+    {
+      "evaluationId": "service-termination",
+      "strategy": "A",
+      "sha256": "c144c6c8070caf1a1b329c45861d3b219c66c434cd4132c28254a85865335091"
+    },
+    {
+      "evaluationId": "service-termination",
+      "strategy": "B",
+      "sha256": "a49d2015d1bdca0e7ac2048410df60adcea15ed0fac0b29b9b12e7ff7ddf3533"
+    },
+    {
+      "evaluationId": "service-termination",
+      "strategy": "C",
+      "sha256": "16d1909983bf5336701a5e11b4b18ae66f431f8e986553b160ef1f8c5167e675"
+    },
+    {
+      "evaluationId": "service-damages",
+      "strategy": "A",
+      "sha256": "7d895569553a2b27e7aa72819225a381b537033619cfc3fa6dc8a5095c6a7539"
+    },
+    {
+      "evaluationId": "service-damages",
+      "strategy": "B",
+      "sha256": "6cbc4752cc67d46fbc3a14bd7c7d7c791ebc1078bcb7ddd23024dfccfff419d8"
+    },
+    {
+      "evaluationId": "service-damages",
+      "strategy": "C",
+      "sha256": "86348b9985b8c29f77ab5f08f3c0655b723a7d9f2176e06b08aab6c688e32a68"
+    },
+    {
+      "evaluationId": "lease-maintenance",
+      "strategy": "A",
+      "sha256": "5f809ff4c583d471fa024d4c1d6986db99ab568c379d24c7851673b9d314ab41"
+    },
+    {
+      "evaluationId": "lease-maintenance",
+      "strategy": "B",
+      "sha256": "a8accc3fd9526ebd25516eb993e205c617fdc93041367f5fefa71649e21e1303"
+    },
+    {
+      "evaluationId": "lease-maintenance",
+      "strategy": "C",
+      "sha256": "9c4a8eb73ef2a33bf9a622dd317782faa98c8aae8a3a40f50f61210450d327ad"
+    },
+    {
+      "evaluationId": "lease-termination",
+      "strategy": "A",
+      "sha256": "cf6b23af4bac4553295539cb2d6b0af54b515b6172b19dfbcde0841fd683dbc8"
+    },
+    {
+      "evaluationId": "lease-termination",
+      "strategy": "B",
+      "sha256": "43803f2c21e254f7b3f9638a7b321a612212b00d5e7c211d0e76952acdb6da0f"
+    },
+    {
+      "evaluationId": "lease-termination",
+      "strategy": "C",
+      "sha256": "1c9edaa25f93406cd17d1467709448989cdae9c6f57db0d54249a72da5a33910"
+    },
+    {
+      "evaluationId": "lease-property-damage",
+      "strategy": "A",
+      "sha256": "92267f4db6fdee629166eaf342bf88ad57078e6615ea80fef9714c3a3faa5805"
+    },
+    {
+      "evaluationId": "lease-property-damage",
+      "strategy": "B",
+      "sha256": "12ee90f9e9fa4674805c186e84389f3ac7d4100f06c7590cf869055d5d1e2550"
+    },
+    {
+      "evaluationId": "lease-property-damage",
+      "strategy": "C",
+      "sha256": "a3b656ce88b68fef8f35d20092bf2b0782031ee84dd9f60d336c3ec6bd640b36"
+    }
+  ]
+}

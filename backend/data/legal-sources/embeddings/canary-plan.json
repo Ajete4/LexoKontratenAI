@@ -1,0 +1,13 @@
+{
+  "chunkId": "d1a2e9f2-a182-45d1-8a2c-6f3c4bc27ca9",
+  "legalSourceId": "0729a106-f91b-4728-b9c7-773605795921",
+  "lawNumber": "03/L-212",
+  "versionLabel": "gazette-90-2010",
+  "chunkIndex": 76,
+  "contentHash": "c3359a1dcee2c3ff67b2b4b495cad2e8b8ae55de1e73f0ad9848838c87d25ee3",
+  "characterCount": 108,
+  "utf8ByteCount": 114,
+  "model": "text-embedding-3-small",
+  "dimensions": 1536,
+  "pipelineVersion": "legal-embedding-v1"
+}

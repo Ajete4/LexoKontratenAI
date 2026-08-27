@@ -1,0 +1,30 @@
+{
+  "documents": [
+    {
+      "lawNumber": "03/L-212",
+      "checkedArticleCount": 20,
+      "checkedParagraphCount": 147,
+      "reviewedPageTransitionCount": 28,
+      "reviewOutcome": "approved_with_warnings",
+      "remainingWarningCount": 1
+    },
+    {
+      "lawNumber": "04/L-077",
+      "checkedArticleCount": 35,
+      "checkedParagraphCount": 81,
+      "reviewedPageTransitionCount": 231,
+      "reviewOutcome": "approved_with_warnings",
+      "remainingWarningCount": 1
+    },
+    {
+      "lawNumber": "08/L-142",
+      "checkedArticleCount": 7,
+      "checkedParagraphCount": 15,
+      "reviewedPageTransitionCount": 1,
+      "reviewOutcome": "approved_with_warnings",
+      "remainingWarningCount": 1
+    }
+  ],
+  "blockedDocumentCount": 0,
+  "nextPhaseDecision": "eligible_after_manual_approval"
+}

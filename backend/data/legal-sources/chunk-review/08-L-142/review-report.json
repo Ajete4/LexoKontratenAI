@@ -1,0 +1,57 @@
+{
+  "lawNumber": "08/L-142",
+  "versionLabel": "gazette-18-2024",
+  "articleCount": 7,
+  "chunkCount": 7,
+  "sampledArticles": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "sampledChunkCount": 7,
+  "integrityChecks": {
+    "sourceHashMatches": true,
+    "reviewOutcomeAllowed": true,
+    "chunkingOutcomeAllowed": true,
+    "chunkCountMatchesArticleCount": true,
+    "completeArticleCoverage": true,
+    "noUnknownArticles": true,
+    "contiguousUniqueIndexes": true,
+    "validContentHashes": true,
+    "noDuplicateContentHashes": true,
+    "noEmptyChunks": true,
+    "noChunkAboveHardLimit": true,
+    "singleSourceIdentityPerChunk": true
+  },
+  "textComparisonChecks": {
+    "sampledBodiesMatchParsedText": true,
+    "sampledTitlesMatch": true,
+    "sampledHeadersAreSelfContained": true,
+    "sampledParagraphOrderMatches": true
+  },
+  "contaminationChecks": {
+    "noIsolatedPageNumbers": true,
+    "noOfficialGazetteHeaders": true,
+    "noPreamble": true,
+    "noStructuralHeadingParagraphs": true,
+    "noReplacementCharacters": true,
+    "noHtml": true,
+    "noUuidOrDynamicTimestamp": true,
+    "noStorageOrCredentialMaterial": true
+  },
+  "provenanceChecks": {
+    "validPageRanges": true,
+    "sampledPagesCoverParsedProvenance": true,
+    "structuralContextMatchesParsed": true,
+    "sourceSha256Propagated": true
+  },
+  "warnings": [
+    "Amendment relations remain candidates requiring manual legal verification and are not database relations."
+  ],
+  "blockingIssues": [],
+  "outcome": "approved_for_seed_with_warnings"
+}

@@ -1,0 +1,24 @@
+{
+  "version": "legal-hybrid-service-tuning-plan-v1",
+  "mode": "local-only",
+  "contractType": "service",
+  "caseCount": 3,
+  "variants": [
+    "baseline-controlled",
+    "verified-title-anchors",
+    "verified-inflection-expansion"
+  ],
+  "configuration": {
+    "matchCount": 8,
+    "candidateCount": 50,
+    "minSemanticSimilarity": 0.45,
+    "rrfK": 60
+  },
+  "requestBudget": {
+    "openAiEmbeddingRequests": 9,
+    "readOnlyHybridRpcCalls": 9,
+    "databaseWrites": 0
+  },
+  "globalSimilarityThresholdChanged": false,
+  "requiresMigration": false
+}

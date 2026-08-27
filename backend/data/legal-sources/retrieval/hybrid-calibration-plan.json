@@ -1,0 +1,39 @@
+{
+  "mode": "dry-run",
+  "version": "legal-hybrid-calibration-v1",
+  "goldSetVersion": "legal-retrieval-gold-v1",
+  "reuseCases": 9,
+  "strategies": ["A", "B", "C"],
+  "configuration": {
+    "matchCount": 8,
+    "candidateCount": 50,
+    "minimumSemanticSimilarity": 0.45,
+    "rrfK": 60,
+    "lexicalConfiguration": "pg_catalog.simple",
+    "fusion": "RRF"
+  },
+  "requestBudget": {
+    "openAiEmbeddingRequests": 27,
+    "readOnlyHybridRpcCalls": 27,
+    "databaseWrites": 0
+  },
+  "acceptanceGate": {
+    "scopeViolations": 0,
+    "minimumHitAt5": 0.75,
+    "minimumServiceHits": 2,
+    "minimumEmploymentHits": 2,
+    "minimumLeaseHits": 2,
+    "minimumRelevantAtRank1": 5,
+    "maximumNoResultRate": 0.1111111111111111
+  },
+  "artifactIntegrity": {
+    "goldSetSha256": "F15A212AD111D7F9DDCA77E376E43C4BAB862E084DBC6376F04C6CA06D2E7FC3",
+    "semanticCalibrationReportSha256": "94F05C30B75A793C858964C2D98A65CA9A4EAB791C67DB34C0AB7443AE0744CE",
+    "semanticCalibrationCheckpointSha256": "B5B4BB7CD2A14DCBBA685A37310F69A4028080BF3134A150195DBD1F32F0D5B2"
+  },
+  "notes": [
+    "No real requests are executed by this plan.",
+    "The acceptance gate is unchanged from semantic calibration.",
+    "The simple text search configuration performs no Albanian stemming."
+  ]
+}

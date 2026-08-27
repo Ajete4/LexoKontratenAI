@@ -1,0 +1,16 @@
+{
+  "lawNumber": "08/L-142",
+  "pageCount": 2,
+  "articleCount": 7,
+  "paragraphCount": 15,
+  "unassignedBlockCount": 16,
+  "firstArticlePage": 1,
+  "lastArticlePage": 2,
+  "duplicateArticleHeadings": [],
+  "unusualArticleNumbers": [],
+  "pagesWithoutText": [],
+  "replacementCharacterCount": 0,
+  "assignedTextPercentage": 100,
+  "structureStatus": "parsed",
+  "warnings": []
+}

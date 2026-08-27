@@ -1,0 +1,50 @@
+{
+  "amendingLawNumber": "08/L-142",
+  "candidates": [
+    {
+      "amendingLawNumber": "08/L-142",
+      "amendingArticleNumber": "2",
+      "baseLawNumber": "04/L-261",
+      "baseArticleNumber": "16A",
+      "relationTypeCandidate": "amend",
+      "evidenceText": "Neni 16A, paragrafi 3 nën paragrafi 3.1 ... ndryshohet me tekstin si në vijim.",
+      "reviewStatus": "candidate_for_manual_review"
+    },
+    {
+      "amendingLawNumber": "08/L-142",
+      "amendingArticleNumber": "3",
+      "baseLawNumber": "04/L-092",
+      "baseArticleNumber": "7",
+      "relationTypeCandidate": "amend",
+      "evidenceText": "Neni 7, paragrafi 2 ... ndryshohet me tekstin si në vijim.",
+      "reviewStatus": "candidate_for_manual_review"
+    },
+    {
+      "amendingLawNumber": "08/L-142",
+      "amendingArticleNumber": "4",
+      "baseLawNumber": "05/L-067",
+      "baseArticleNumber": "7",
+      "relationTypeCandidate": "amend",
+      "evidenceText": "Neni 7, paragrafi 1 ... ndryshohet me tekstin si në vijim.",
+      "reviewStatus": "candidate_for_manual_review"
+    },
+    {
+      "amendingLawNumber": "08/L-142",
+      "amendingArticleNumber": "5",
+      "baseLawNumber": "05/L-028",
+      "baseArticleNumber": "6",
+      "relationTypeCandidate": "amend",
+      "evidenceText": "Neni 6 ... ndryshohet si në vijim.",
+      "reviewStatus": "candidate_for_manual_review"
+    },
+    {
+      "amendingLawNumber": "08/L-142",
+      "amendingArticleNumber": "6",
+      "baseLawNumber": "03/L-212",
+      "baseArticleNumber": "57",
+      "relationTypeCandidate": "amend",
+      "evidenceText": "Neni 57, paragrafi 1 ... ndryshohet si në vijim.",
+      "reviewStatus": "candidate_for_manual_review"
+    }
+  ]
+}

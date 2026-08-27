@@ -1,0 +1,58 @@
+{
+  "targetCharacters": 4000,
+  "hardWarningCharacters": 6000,
+  "sources": [
+    {
+      "lawNumber": "03/L-212",
+      "articleCount": 100,
+      "chunkCount": 100,
+      "splitArticleCount": 0,
+      "unsplitArticleCount": 100,
+      "oversizedChunkCount": 0,
+      "minimumCharacters": 108,
+      "maximumCharacters": 3466,
+      "averageCharacters": 738.14,
+      "missingProvenanceCount": 0,
+      "duplicateContentHashCount": 0,
+      "sourceWarnings": [
+        "Chapter and section headings are preserved separately but are not yet modeled as a complete hierarchy tree."
+      ],
+      "outcome": "ready_with_warnings"
+    },
+    {
+      "lawNumber": "04/L-077",
+      "articleCount": 1059,
+      "chunkCount": 1059,
+      "splitArticleCount": 0,
+      "unsplitArticleCount": 1059,
+      "oversizedChunkCount": 0,
+      "minimumCharacters": 91,
+      "maximumCharacters": 2891,
+      "averageCharacters": 506.2,
+      "missingProvenanceCount": 0,
+      "duplicateContentHashCount": 0,
+      "sourceWarnings": [
+        "The complete multi-level book/part/chapter hierarchy remains represented as provenance blocks rather than a nested hierarchy."
+      ],
+      "outcome": "ready_with_warnings"
+    },
+    {
+      "lawNumber": "08/L-142",
+      "articleCount": 7,
+      "chunkCount": 7,
+      "splitArticleCount": 0,
+      "unsplitArticleCount": 7,
+      "oversizedChunkCount": 0,
+      "minimumCharacters": 298,
+      "maximumCharacters": 842,
+      "averageCharacters": 532.71,
+      "missingProvenanceCount": 0,
+      "duplicateContentHashCount": 0,
+      "sourceWarnings": [
+        "Amendment relations remain candidates requiring manual legal verification and are not database relations."
+      ],
+      "outcome": "ready_with_warnings"
+    }
+  ],
+  "blockedSourceCount": 0
+}

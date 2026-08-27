@@ -1,0 +1,152 @@
+{
+  "totalCandidates": 1165,
+  "completedCandidates": 1165,
+  "skippedExisting": 0,
+  "lastCompletedBatch": 24,
+  "batchStatuses": [
+    {
+      "batchNumber": 1,
+      "batchHash": "9d2238052b2efff7bef967024c447e2d4630551ff4350536c824a73c2620275b",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 2,
+      "batchHash": "ca7db2615ebc41e5f8f630fa81ba0f223ae24d10df430771163a2746de6210b1",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 3,
+      "batchHash": "3a80d4ac79c7c97a7dc5e394d1fa92935775dab5c93160a7f5174c515aa5270c",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 4,
+      "batchHash": "2cc5c2d210f58e1c07899eb779162fdddd767cb2daed94578643f9b043905281",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 5,
+      "batchHash": "7f8b66278a03b4477206c243441bb170efbdb6c0b2d0c047532190be0587d40c",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 6,
+      "batchHash": "072c46d2d1aa6fd094fdb7a61c8ec78f360bf737b23caeff199aa37e04ebf85b",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 7,
+      "batchHash": "5b85a2e10d25dfc0e6569bd12db3d4c6a34a0a542cb9cd528e004f2d8bbc1446",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 8,
+      "batchHash": "db2e280f8bc6f3643858023619af5bc47935067f7fbf1ae5aaa97646519ba27b",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 9,
+      "batchHash": "ee9cf2f27becb733aa66c231607e7106d8873b386381dfe109f7cc2e533e68ae",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 10,
+      "batchHash": "3c79ece5e4f3714402ffd7becddfd75ecf73920fb17990c7f78b20d316ff6f39",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 11,
+      "batchHash": "f4e2545e0c0a0e0f1527d5172c8a25b37f4da9ae45b97cddbc825abb5bf91379",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 12,
+      "batchHash": "dd09ee00ef62bec78ca96b958eb1d4291f463a4bc3298ff80528d0956d4dca34",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 13,
+      "batchHash": "e6f9d4d73a0fd7e5fbc574001037b51707ea976ff200e115e930b583bf383f65",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 14,
+      "batchHash": "f229b4fee04e87cf6b40f1d17008e4cfd466f81f198f3a0adfb23f76f97106bc",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 15,
+      "batchHash": "7d9f0905d7a985afa18b777deb92b464084279146dde0d5f0559bd15cbfae243",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 16,
+      "batchHash": "f64b4cd1d7fadc8ab023a07e454952bc874efab22ad9fddd1c8979b8317bc225",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 17,
+      "batchHash": "9621fae62f60fc16891f9ef140af4007e65dd6ea9df26fa6779692b11c4e5412",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 18,
+      "batchHash": "2836462b49f25909ee27e735ff00e4dbc330945405b1444b8da94fafa4678b82",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 19,
+      "batchHash": "62497a5faeb2146de0a9c91218d4806e949f4852c01d8ade46d65b7e1cb66171",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 20,
+      "batchHash": "5fb3182811a81cc9bd48b8c4c508d7ae3001512e142fc45999005bd9ac959a10",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 21,
+      "batchHash": "813dd6e4b5bda6f9064e828115385d56a03ea74d24313f0019df2329c0fc9c36",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 22,
+      "batchHash": "07aa4ad19498ae6e5c5a531cf7aa2c73fb9ff419dedf488ae3884cafaf608304",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 23,
+      "batchHash": "cd865bea6d9e1a933014082d98f611611b0fb30765b067c154d691bd0ccc9def",
+      "status": "completed",
+      "persistedCount": 50
+    },
+    {
+      "batchNumber": 24,
+      "batchHash": "05a6908787246516abfbd4cf18902c891228f4e1680ba551ea61ce8479a128d1",
+      "status": "completed",
+      "persistedCount": 15
+    }
+  ]
+}
